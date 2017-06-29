@@ -1,0 +1,2678 @@
+<?xml version="1.0"?>
+<data version="1.0.0" exam_id="tokyo_2004">
+	<gs>
+		<content>
+			<![CDATA[
+			１５〜１６世紀に始まるヨーロッパ諸国の新航路開拓は、国際商業の発展と世界経済の一体化を促した。ヨーロッパ諸国は競合しながら香辛料などのアジアの特産物を求め、各国で東インド会社が設立されてアジア貿易を行った。新大陸に進出したスペインはボリビアのポトシ銀山などを開発し、大量の銀がヨーロッパに流入した結果、物価が急激に上昇する価格革命を引き起こし、封建勢力が没落して、 絶対主義化が促された。こうした中でアントウェルペンが１６世紀中期の国際取引の中心地として繁栄したが、１７世紀にはアムステルダムに国際取引の中心が移った。エルベ川以東のドイツでは、西ヨーロッパ市場での農産物需要増加、価格上昇に対応して、領主が直営農業を拡大し、輸出作物としての穀物を生産するグーツヘルシャフトが１６世紀以降支配的となった。中国では日本銀に加え、絹や陶磁器との交換のため、スペインが新大陸から持ち込んだ銀の流通が一般化し、諸税を銀で一括納入する一条鞭法が全国に広がった。また、イギリスのインド進出に伴い、銀を代価に輸入されたインド産綿織物がイギリス産業を刺激し、産業革命の要因となった。
+			]]>
+		</content>
+		<gs_index_set>
+			<gs_index expression_id="" start="" length="">
+                １５
+			</gs_index>
+            <gs_index expression_id="" start="" length="">
+                〜
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １６
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                世紀に
+            </gs_index>
+			<gs_index expression_id="" start="" length="">
+                始まる
+			</gs_index>
+			<gs_index expression_id="" start="" length="">
+                ヨーロッパ諸国の
+			</gs_index>
+            <gs_index expression_id="" start="" length="">
+                新航路開拓
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                は、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                国際商業の発展
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                と
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                世界経済
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の一体化を促した。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ヨーロッパ諸国は
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                競合しながら
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                香辛料などの
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アジアの特産物を求め、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                各国で
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                東インド会社が設立されて
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アジア貿易を行った。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                新大陸に進出した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                スペイン
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                は
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ボリビアの
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ポトシ銀山などを開発し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                大量の銀がヨーロッパに流入した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                結果、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                物価が急激に上昇する
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                価格革命
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                を引き起こし、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                封建勢力が没落して、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                絶対主義化が促された。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アントウェルペンが
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １６世紀中期の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                国際取引の中心地として
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                繁栄した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １７世紀には
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アムステルダムに
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                国際取引の中心が移った。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                エルベ川以東の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ドイツでは、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                西ヨーロッパ市場での
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                農産物需要増加、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                価格上昇
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                に対応して、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                領主が
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                直営農業を拡大し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                輸出作物としての穀物を生産する
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                グーツヘルシャフト
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １６世紀以降
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                支配的となった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                中国では
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                日本銀
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                に加え、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                絹
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                や
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                陶磁器
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                との交換のため、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                スペインが
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                新大陸から
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                持ち込んだ
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                銀
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の流通が一般化し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                諸税を銀で一括納入する
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                一条鞭法
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が全国に広がった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                イギリスのインド進出に伴い、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                銀を代価に輸入された
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                インド産綿織物
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                イギリス産業を刺激し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                産業革命の要因となった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+            </gs_index>
+		</gs_index_set>
+		<gs_sentence_set>
+            <gs_sentence id="">
+                １５〜１６世紀に始まるヨーロッパ諸国の新航路開拓
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国の新航路開拓
+            </gs_sentence>
+            <gs_sentence id="">
+                新航路開拓
+            </gs_sentence>
+            <gs_sentence id="">
+                １５世紀に始まる新航路開拓は、世界経済の一体化を促した。
+            </gs_sentence>
+            <gs_sentence id="">
+                １６世紀に国際商業の発展と世界経済の一体化を促した。
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国の新航路開拓は、国際商業の発展と世界経済の一体化を促した。
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国の新航路開拓は、世界経済の一体化を促した。
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国は競合しながら
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国は香辛料などのアジアの特産物を求め、
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国は各国で東インド会社が設立されて
+            </gs_sentence>
+            <gs_sentence id="">
+                東インド会社が設立されて
+            </gs_sentence>
+            <gs_sentence id="">
+                香辛料などのアジアの特産物を求め、アジア貿易を行った。
+            </gs_sentence>
+            <gs_sentence id="">
+                ヨーロッパ諸国はアジア貿易を行った。
+            </gs_sentence>
+            <gs_sentence id="">
+                新大陸に進出したスペインは大量の銀がヨーロッパに流入した
+            </gs_sentence>
+            <gs_sentence id="">
+                新大陸に進出したスペイン
+            </gs_sentence>
+            <gs_sentence id="">
+                スペインはボリビアのポトシ銀山などを開発し、
+            </gs_sentence>
+            <gs_sentence id="">
+                スペインはボリビアのポトシ銀山などを開発し、大量の銀がヨーロッパに流入した
+            </gs_sentence>
+            <gs_sentence id="">
+                ボリビアのポトシ銀山などを開発し、大量の銀がヨーロッパに流入した
+            </gs_sentence>
+            <gs_sentence id="">
+                大量の銀がヨーロッパに流入した
+            </gs_sentence>
+            <gs_sentence id="">
+                物価が急激に上昇する価格革命を引き起こし、
+            </gs_sentence>
+            <gs_sentence id="">
+                価格革命を引き起こし、
+            </gs_sentence>
+            <gs_sentence id="">
+                封建勢力が没落して、
+            </gs_sentence>
+            <gs_sentence id="">
+                アントウェルペンが１６世紀中期の国際取引の中心地として繁栄した
+            </gs_sentence>
+            <gs_sentence id="">
+                アントウェルペンが国際取引の中心地として繁栄した
+            </gs_sentence>
+            <gs_sentence id="">
+                １７世紀にはアムステルダムに国際取引の中心が移った。
+            </gs_sentence>
+            <gs_sentence id="">
+                アムステルダムに国際取引の中心が移った。
+            </gs_sentence>
+            <gs_sentence id="">
+                エルベ川以東のドイツでは、領主が直営農業を拡大し、
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパ市場での輸出作物としての穀物を生産するグーツヘルシャフト
+            </gs_sentence>
+            <gs_sentence id="">
+                輸出作物としての穀物を生産するグーツヘルシャフト
+            </gs_sentence>
+            <gs_sentence id="">
+                エルベ川以東のドイツでは、領主がグーツヘルシャフトが１６世紀以降支配的となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                エルベ川以東のドイツでは、領主がグーツヘルシャフトが支配的となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパ市場での農産物需要増加に対応して
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では日本銀に加え、絹や陶磁器との交換のため、スペインが新大陸から持ち込んだ銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では絹や陶磁器との交換のため、銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では絹や陶磁器との交換のため、スペインが新大陸から持ち込んだ銀
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では絹との交換のため、スペインが新大陸から持ち込んだ銀
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では日本銀に加え、新大陸から持ち込んだ銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では日本銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国ではスペインが新大陸から持ち込んだ銀の流通が一般化し、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では絹や陶磁器との交換
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では絹との交換
+            </gs_sentence>
+            <gs_sentence id="">
+                諸税を銀で一括納入する一条鞭法
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では一条鞭法が全国に広がった。
+            </gs_sentence>
+            <gs_sentence id="">
+                インド産綿織物がイギリス産業を刺激し、産業革命の要因となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                インド産綿織物がイギリス産業を刺激し、
+            </gs_sentence>
+            <gs_sentence id="">
+                産業革命の要因となった。
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            
+		</gs_sentence_set>
+	</gs>
+
+	<query>
+		<!--from="Q(Question) or K(Keyword) or GS(GrandStandard)" -->
+		<query_term id="" from="">
+		</query_term>
+	</query>
+
+	<doc_set>
+		<doc docno="T-WH-A-2-3-1-0">
+			<query_term_id_set_set>
+				<query_term_id_set id="1">1,3,9</query_term_id_set>
+			</query_term_id_set_set>
+			<doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １５世紀なかば，ポルトガル，ついでスペインが海外進出にのりだした
+                </doc_index>
+				<doc_index gs_sentence_id="" start="" length="">
+                    拡大するヨーロッパの勢力によって，
+				</doc_index>
+				<doc_index gs_sentence_id="" start="" length="">
+                    新しい世界商業の形成，拡大
+				</doc_index>
+				<doc_index gs_sentence_id="" start="" length="">
+				</doc_index>
+			</doc_index_set>
+			<extraction_text_set>
+				<!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １５世紀なかば，ポルトガル，ついでスペインが海外進出にのりだした
+                </extraction_text>
+				<extraction_text gs_sentence_id="" nature="">
+                    拡大するヨーロッパの勢力によって，新しい世界商業の形成，拡大
+				</extraction_text>
+				<extraction_text gs_sentence_id="" nature="">
+				</extraction_text>
+			</extraction_text_set>
+			<title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ</title>
+			<text>
+				<![CDATA[
+                    １５世紀なかば，ポルトガル，ついでスペインが海外進出にのりだしたころから，世界は新しい変化の時代をむかえることになった。
+                    その変化とは，一言でいえば，拡大するヨーロッパの勢力によって，世界がしだいに一つに結びつけられていったことである。
+                    それは，特に西ヨーロッパを中心にして，新しい世界商業の形成，拡大，またカリブ海諸島やアメリカ大陸にみられるような，先住民の征服と植民地化として進んだ。
+                    しかしアジアには，オスマン帝国のように，ヨーロッパの力をなお圧倒するような強力な権力が存在し，それ自身，自己を中心に広い地域を支配し結合させる独自の世界を形成していた。
+                    これらの世界がその体制を解体してゆくのは，本格的にはまだ３００年ほどのち，１８世紀の末からのことといってよい。
+                    しかし，ヨーロッパの進出は，多くの地域に新しい経済活動を拡大させ，またヨーロッパからもたらされるあらたな刺激は，それらの地域の内部に，新しい対応と変化をうながす要因にもなっていった。
+                    この章では，そのように非ヨーロッパ世界において形成され併存して，独自の体制をかためた諸帝国，地中海からインド洋，さらに東アジアにつらなるオスマン，ムガル，中華（明朝から清朝にいたる）帝国の様相をみる。
+                    また，この地域の東西の交通の要所に成立し消えていったティムール朝にも注目したい。
+                    それと同時に，これらの帝国の支配をこえて，イスラームの商人，そしてあらたに登場するヨーロッパの勢力の活動をひきつけた東南アジアの独自の位置にも注意しよう。
+                    そのいっぽう，この時代にヨーロッパにおこった変動は，やがてこうした世界に根本からの変化をうながすことになる。
+                    ヨーロッパには何がおこったのだろうか。
+				]]>
+			</text>
+		</doc>
+        <doc docno="T-WH-A-2-3-1-8">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                     明
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                     の時代には，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸や日本から流入した銀を背景に，貨幣経済が農村にも浸透した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地税と徭役とを銀で一括して納入する
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    一条鞭法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が一般化した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，アメリカ大陸や日本から流入した銀を背景に，貨幣経済が農村にも浸透した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    土地税と徭役とを銀で一括して納入する一条鞭法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，一条鞭法が一般化した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-中華帝国の繁栄と東アジア-明，清時代の社会と文化</title>
+            <text>
+                <![CDATA[
+                    明，清の時代には，長江の中・下流域を中心に，産業がいっそう発達した。
+                    農業技術の進歩にともない米の二期作も始まり，そのおもな産地は長江下流域から中流域に広がり，「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                    また，茶や綿花の栽培が全国的におこなわれ，１７世紀ごろからはアメリカ大陸からの輸入作物であるトウモロコシ，甘藷（サツマイモ）などが栽培されるようになり，甘藷は琉球をへて日本に伝わった。
+                    明代中期以降，江南では絹織物や綿織物などの手工業がめざましい発展をとげ，蘇州などの都市が繁栄した。
+                    商業も活発になり，アメリカ大陸や日本から流入した銀を背景に，貨幣経済が農村にも浸透した。
+                    しかし，軍事費として銀が北辺に運ばれるため国内の銀不足が深刻化し，税や徭役の増大にともなって農民の生活は苦しくなった。
+                    そのため，地主に対して小作料（佃租）の不払いを要求する抗租運動をおこす者もあらわれた。
+                    銀の全国的な流通は税制にも変化をおよぼした。
+                    １６世紀後半には土地税と徭役とを銀で一括して納入する一条鞭法が一般化した。
+                    これは，清代に人頭税を土地税のなかにくりこんで徴収する地丁銀制へと引きつがれた。
+                    明代には，儒学に知行合一を説く陽明学がおこり，さらに産業などに役立つ実用的な学問も発達した。
+                    明末清初には，イエズス会宣教師マテオ・リッチらによってヨーロッパの文化が紹介された。
+                    また，清代には，きびしい思想の統制もあって，厳格な古典研究をめざす考証学がさかんになった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-2-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    オランダ，イギリス，フランスが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東インド会社をおこし
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    オランダ，イギリス，フランスが東インド会社をおこし
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-東南アジア-ヨーロッパ諸国の進出</title>
+            <text>
+                <![CDATA[
+                    １６世紀はじめに，ポルトガルやスペインのアジア進出が開始された。
+                    ポルトガルは１５１１年にマラッカを占領し，１５５７年にはマカオに居住権を獲得して，東アジアと南アジアを結ぶ重要な交易港に拠点をきずいた。
+                    当時ポルトガルとトルデシリャス条約によって，地球を二つにわけていたスペインは，地球の西回りでマゼラン（マガリャンイス）を派遣して１５２１年にはフィリピンに到達しており，１５７１年にはマニラ市を建設した。
+                    １７世紀初頭には，オランダ，イギリス，フランスが「東インド」とよぶアジアの産物を求めて東インド会社をおこし，ポルトガルやスペインと対抗しながら，アジアに勢力をきずいていった。
+                    オランダは，１６１９年にバタヴィア市を建設し，２３年にはイギリスをアンボイナ事件によって排除して，この地域の支配権を確立した。
+                    １７世紀後半にはいると，アジアにおし寄せた価格革命の影響は収束し，日本の鎖国，清の貿易統制の影響もあって交易は衰退した。
+                    ヨーロッパで１７世紀末に胡椒価格の大暴落がおこると，国際交易はさらに衰退し，ヨーロッパ諸国はそれまでの交易中心から領域支配へと東南アジア進出の方向を転換し始める。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-4-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １５世紀を境にして，ヨーロッパでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    海外への進出が活発になり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １５世紀を境にして，ヨーロッパでは海外への進出が活発になり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-１６世紀のヨーロッパ-海上交易の発展</title>
+            <text>
+                <![CDATA[
+                    １５世紀を境にして，ヨーロッパではポルトガルを先頭に海外への進出が活発になり，「大航海時代」とよばれる時代の幕がひらかれた。
+                    その前提となったのは，１４世紀に発展したヨーロッパの北方と地中海を結ぶ海上交易だった。
+                    地中海では，イタリア半島のヴェネツィアやジェノヴァの都市の商人が，バルカン半島やレヴァントとよばれた東方地域との交易を進めていた。
+                    １４世紀はじめ，この地中海と大西洋沿岸をへて北方につらなる航路がひらかれた。
+                    北海やバルト海方面では，リューベックやハンブルクなどの都市が交易の拠点として台頭し，これらの都市はハンザ同盟とよばれる協力関係を結んだ。
+                    ヨーロッパ北西部では，この交易のための毛織物生産がさかんになり，北方の毛皮や木材，東地中海方面からの香辛料や絹織物などが，商品として取り引きされた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-4-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ人による新航路の開拓
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    商業の中心は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大西洋岸へ移動した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸から大量の銀がもたらされた
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパでは価格革命とよばれる物価の上昇がおこり
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパ人による新航路の開拓
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    商業の中心は大西洋岸へ移動した
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸から大量の銀がもたらされた
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパでは価格革命とよばれる物価の上昇がおこり
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-１６世紀のヨーロッパ-新航路の発見</title>
+            <text>
+                <![CDATA[
+                    １４８８年，ポルトガルのバルトロメウ・ディアスはアフリカ南端（喜望峰）に到達し，１４９８年にはヴァスコ・ダ・ガマが喜望峰をへてインド西部のカリカットにいたった。
+                    西むきの航路でアジアをめざしたコロンブスは，１４９２年にカリブ海のサン・サルバドル島へ到達した。
+                    また１５２２年に達成されたマゼラン隊の世界周航は，地球が球体であることを証明した。
+                    造船技術や航海術，羅針盤の発達などを背景に進められたヨーロッパ人による新航路の開拓は，それまで独自の世界を形成してきた諸文明圏を一つの世界に結びつけていく始まりとなった。
+                    新航路の開拓は，ヨーロッパ社会に大きな影響を与えた。
+                    商業の中心はこれまでのイタリア諸都市から大西洋岸へ移動した（商業革命）。
+                    またアメリカ大陸から大量の銀がもたらされたため，１６世紀のヨーロッパでは価格革命とよばれる物価の上昇がおこり，社会層の変動がうながされた。
+                    さらに，トウモロコシ，ジャガイモ，トマトなどのアメリカ大陸産の作物がもちこまれて，食生活に大きな影響を与えた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-5-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントウェルペンなどの都市が栄えていた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アムステルダムが，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    商業，金融の中心地として発展した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アントウェルペンなどの都市が栄えていた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アムステルダムが，商業，金融の中心地として発展した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-ヨーロッパの主権国家体制の成立と世界商業の進展-オランダの独立</title>
+            <text>
+                <![CDATA[
+                    ネーデルラント（低地地方）では，以前より毛織物業を軸に商業活動が活発になっており，北海や地中海方面と西ヨーロッパの内陸部を結ぶ交易の要地として，アントウェルペンなどの都市が栄えていた。
+                    しかし，大西洋に航路がひらけ，アフリカやアジアに交易の可能性が広がると，商人たちはこれらの地域やバルト海方面にも進出していった。
+                    こうした活動によって，あらたにネーデルラント北部のアムステルダムが，造船業や国際的な商業，金融の中心地として発展した。
+                    このようななかで，ネーデルラント北部７州は連合して，１５８１年にスペインからの独立を宣言し，のちにネーデルラント連邦共和国と名のった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-5-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    諸国は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    貴重な物産を求めて
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アジア
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    へ進出した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アジアでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    国家による貿易独占に対抗して，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東インド会社を設立してアジア貿易に従事させた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アジア貿易に従事させた。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    諸国は貴重な物産を求めてアジアへ進出した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    諸国はアジアでは国家による貿易独占に対抗して，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    諸国は東インド会社を設立して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    諸国はアジア貿易に従事させた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-ヨーロッパの主権国家体制の成立と世界商業の進展-国際的な商業の発展</title>
+            <text>
+                <![CDATA[
+                    １７世紀前半，スペインにかわってオランダが世界の商業と金融の中心となり，イギリスとフランスも有力な海洋国家としてあらわれていた。
+                    これらの諸国は市場，原料，貴重な物産を求めてアメリカ，アジア，アフリカへ進出した。
+                    特にアジアではそれまでのスペイン，ポルトガルの国家による貿易独占に対抗して，商人たちに特許状を与え，東インド会社を設立してアジア貿易に従事させた。
+                    西ヨーロッパは，国際的な商業の展開を背景に商品経済を拡大させ，資本主義を発達させていった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-5-8">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １７世紀には，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東ヨーロッパでは領主たちが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農民の身分的隷属を強めていったことである。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １７世紀には，東ヨーロッパでは領主たちが農民の身分的隷属を強めていったことである。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-ヨーロッパの主権国家体制の成立と世界商業の進展-東ヨーロッパ</title>
+            <text>
+                <![CDATA[
+                    １７世紀には，ヨーロッパの東西間での貿易も拡大した。
+                    ポーランドをはじめ東ヨーロッパでは，西方の市場にむかっての穀物や鉱物資源の供給が進んだ。
+                    特徴的なことは，東ヨーロッパでは領主たちがこうした換金作物や資源生産の労働力確保のため農民の身分的隷属を強めていったことである。
+                    こうした動きは再版農奴制とよばれる。
+                    これにより西ヨーロッパとは異なる社会の様相が強まった。
+                    ボヘミアとハンガリーの一部はすでに１６世紀にオーストリアの支配にはいっていたが，ポーランドも１８世紀末には，ロシア，オーストリア，プロイセンによりあいついで分割され，国家として消滅させられた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-5-13">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペインがアメリカ大陸で得た大量の銀が流入し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインがアメリカ大陸で得た大量の銀が流入し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-ヨーロッパの主権国家体制の成立と世界商業の進展-世界史のなかの日本１７世紀の世界商業と鎖国</title>
+            <text>
+                <![CDATA[
+                    １６世紀，西ヨーロッパ勢力が，大西洋，太平洋に交易ルートをつくり，大西洋，インド洋，太平洋を結ぶ交易ルートが成立した。
+                    スペインがアメリカ大陸で得た大量の銀が流入し，地域をこえた経済活動が拡大した。
+                    １６～１７世紀は，地球規模の大交易の時代である。
+                    日本でも，１７世紀初頭，江戸幕府がオランダとイギリスに貿易許可証（朱印状）を与えた。
+                    ポルトガルは中国江南の絹織物を日本に運んだ。
+                    東南アジアとの朱印船貿易が奨励され，海外渡航がさかんになり，各地に日本町が出現した。
+                    しかし，１７世紀なかごろには，アジアにおし寄せた価格革命が収束し，明末清初の社会不安もあり，南シナ海，東シナ海交易が衰退し始めた。
+                    幕府は１６４１年に鎖国を徹底するが，新田開発による農村経済の進展，都市経済の成熟により，対外貿易への依存度は大きくなかった。
+                    やがて日本は，国内自給体制をつくっていくことになる。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-4-3-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １６世紀以来の世界貿易の拡大
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １６世紀以来の世界貿易の拡大
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-大西洋世界の変容とその波及-産業革命と世界市場の形成-毛織物工業の発展と第１次囲いこみ</title>
+            <text>
+                <![CDATA[
+                    イギリスでは，１６世紀以来の世界貿易の拡大によって，毛織物生産のためのマニュファクチャーなど国内産業の発達がうながされていた。
+                    そして，新しい商人・企業家層が成長し，利潤を求めて投資がなされ，資本を蓄積していた。
+                    またその背後では，ジェントリーとよばれる地主層が台頭して農村の階層分化が進行し，１６世紀には牧羊のため農民から耕地をうばう第１次囲いこみがおこっていた。
+                    また，１７世紀の二度の革命によって，自由な生産活動を妨げる特権やギルド組織がとりのぞかれた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-4-3-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    インド産綿布が，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ製品をもしのいでいた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスの生産者らは，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    模造品を工夫し
+                </doc_index>
+                 <doc_index gs_sentence_id="" start="" length="">
+                    品質は劣っても安価で大量生産できる方法を探った。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    インド産綿布が，ヨーロッパ製品をもしのいでいた。イギリスの生産者らは，模造品を工夫し，品質は劣っても安価で大量生産できる方法を探った。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-大西洋世界の変容とその波及-産業革命と世界市場の形成-綿業の技術革新</title>
+            <text>
+                <![CDATA[
+                    こうした条件のなかで，産業革命を推進することになる技術革新が，まず綿業で始まった。
+                    綿布は，特にアフリカでの奴隷貿易のために需要が拡大し，マンチェスターなどで綿布生産がおこっていた。
+                    しかし当時は，伝統を有する手織りのインド産綿布が，品質でも価格でも，いかなるヨーロッパ製品をもしのいでいた。
+                    イギリスの生産者らは，インド綿布のイギリスへの輸入禁止など政府の保護措置を求めつつ，模造品を工夫し，さらに，品質は劣っても安価で大量生産できる方法を探った。
+                    １７３３年にジョン・ケイが飛び梭を発明し，織布の能率を倍加してのち，手作業の糸紡ぎを転換させる紡績機の発明があいついだ。
+                    それはまた織機の変化をうながした。
+                    機械の発明は新しい動力の開発をともなった。
+                    １７６０年代にワットが改良した蒸気機関が採用され，綿業は機械制工業へと転換していった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-1-7">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペインは，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸への進出を本格化した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ボリビア領でポトシ銀山が発見され，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    膨大な銀が生産された。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    メキシコ銀貨は，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国の絹などと交換され
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東アジア
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    に大量に流入した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインは，アメリカ大陸への進出を本格化した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインは，ボリビア領でポトシ銀山が発見され，膨大な銀が生産された。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    メキシコ銀貨は，中国の絹などと交換され
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    東アジアに大量に流入した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代-海洋帝国の出現-アメリカの征服</title>
+            <text>
+                <![CDATA[
+                    スペインは，コロンブスの探検以後，アメリカ大陸への進出を本格化した。
+                    １５２１年，コルテスはメキシコのアステカ帝国を滅ぼしてノヴァ＝イスパニア州を建設し，１５３３年にはピサロがペルーのインカ帝国を征服した。
+                    これらの新しい領土にはエンコミエンダ制が導入され，先住民は大農園や鉱山などで酷使された。
+                    エンコミエンダとはスペイン語で「委託」を意味する。征服者（コンキスタドール）は先住民の保護とキリスト教化を条件として，スペイン王から先住民たちとその土地の支配をゆだねられた。
+                    過酷な労働とヨーロッパからもたらされた天然痘，はしか，ペストなどの伝染病により，先住民の人口は激減した。
+                    メキシコと中南米のインディオ人口は，スペイン征服後，わずか１００年あまりで５０００万人から４００万人に減少したと推定されている。
+                    ラス＝カサスら良心的な聖職者たちの努力により，スペイン本国は先住民の奴隷化を禁止したが，それはかわりの労働力としてアフリカからの奴隷の大量輸入をひきおこす結果をもたらした。
+                    １６世紀半ばに現在のボリビア領でポトシ銀山が発見され，精錬技術の進歩もあって，アメリカでは膨大な銀が生産された。
+                    これらの銀や金は，スペインに大きな富をもたらすとともに，アメリカ大陸をオランダやイギリス，フランスなどヨーロッパ諸国の製品の大きな市場とした。
+                    １６世紀後半にスペインはフィリピンにマニラ市を建設したが，メキシコで鋳造されたメキシコ銀貨は，アカプルコから太平洋経由でマニラにも送られて中国の絹などと交換され（アカプルコ貿易），東アジアや東南アジアに大量に流入した。
+                    スペインの植民地では，１７世紀前半から，アシエンダ制とよばれる大土地所有にもとづく農園経営が広がり，大農園主は負債を負った農民（ペオン）を使って，農業や牧畜を営んだ。
+                    １７世紀半ばから銀の生産が減少に向かって，交易がおとろえると，アシエンダ制はいっそう拡大した。
+                    ポルトガルの植民地ブラジルでは，１６世紀後半から，プランテーションによるサトウキビの栽培がはじまり，そのための労働力として，アフリカから奴隷が輸入された。
+                    こうして，ラテンアメリカの植民地では，本国人を支配層とし，植民地生まれの白人クリオーリョ，白人と先住民との混血メスティソ，先住民インディオ，白人と黒人との混血ムラート，そして最下層に黒人奴隷を置く人種的身分社会が形成されていった。
+                    いっぽう北米大陸では，イギリスやフランスが先住民インディアンを追いはらって，自給性の強い植民地をつくっていった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-2-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントワープ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が国際商業の中心となった
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸から
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ内部に
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大量の銀が流入して，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    価格革命とよばれる物価騰貴がおこった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    封建社会の崩壊を促進した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東部ドイツのエルベ川以東の領主層は，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length=""/>
+                <doc_index gs_sentence_id="" start="" length="">
+                    直営地を拡大して，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    輸出用穀物をつくらせる
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農場領主制（グーツヘルシャフト）
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を形成した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アントワープが国際商業の中心となった
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸からヨーロッパ内部に大量の銀が流入して，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    価格革命とよばれる物価騰貴がおこった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    封建社会の崩壊を促進した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    東部ドイツのエルベ川以東の領主層は，直営地を拡大して，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    輸出用穀物をつくらせる農場領主制（グーツヘルシャフト）
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    東部ドイツのエルベ川以東の領主層は，農場領主制（グーツヘルシャフト）を形成した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代-大交易時代の世界-ヨーロッパ世界の変容</title>
+            <text>
+                <![CDATA[
+                    ヨーロッパ勢力のアジアやアメリカへの進出は，同時にヨーロッパ内部にも大きな変動をもたらした。
+                    第一に，イタリア商人が中心であった地中海経由の東方交易にかわって，大西洋交易や，喜望峰をまわるインド洋交易が主流となった。
+                    これとともに，リスボンやアントワープなど大西洋沿岸の諸都市が国際商業の中心となった（商業革命）。
+                    その一方で，イタリア都市など地中海沿岸の港市や，これに銀を供給していた南ドイツの諸都市の繁栄はしだいに失われた。
+                    第二に，アメリカ大陸から大量の銀が流入して，価格革命とよばれる物価騰貴がおこった。
+                    これは，停滞していた経済活動に活気を与え，「繁栄の１６世紀」をもたらした。
+                    農村にまで貨幣経済が浸透すると，農民の一部は経済力をつけて領主から自立するようになった。
+                    すでに固定額の貨幣地代が普及していた西ヨーロッパでは，貨幣価値の下落は領主層に大きな打撃を与え，封建社会の崩壊を促進した。
+                    第三に，大西洋沿岸のネーデルラントやイギリス，フランスが経済的先進地域になるとともに，東欧の東部ドイツやポーランドは，西欧から毛織物や奢侈品を輸入し，かわりに穀物や原材料を輸出する地域となった。
+                    このため，東部ドイツのエルベ川以東の領主層は，直営地を拡大して，それまで比較的自由であった農民を土地にしばりつけ，輸出用穀物をつくらせる農場領主制（グーツヘルシャフト）を形成した。
+                    この結果，東欧では商工業都市や市民層の成長がおさえられることになった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-2-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国産の生糸や絹織物を
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    売りさばき，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    メキシコ銀や日本銀を中国に運んだ。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    中国産の生糸や絹織物を売りさばき，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    メキシコ銀や日本銀を中国に運んだ。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代-大交易時代の世界-南シナ海・東シナ海交易の盛況</title>
+            <text>
+                <![CDATA[
+                    南シナ海と東シナ海の交易圏は，ポルトガルの参入とメキシコ銀・日本銀の大量供給により，大きく発展した。
+                    日本では，１６世紀半ばから新銀山の開発と精錬技術の革新により銀の生産が急増し，また絹織物などの需要が高まった。
+                    ポルトガルや中国の商人は，中国産の生糸や絹織物をマニラや長崎などで売りさばき，メキシコ銀や日本銀を中国に運んだ。
+                    日本の商人もさかんに海外交易にのりだし，１６０１年，徳川家康は，海外への渡航船に朱印状を与え，海外交易を促進した（朱印船貿易）。
+                    １７世紀前半には，ヴェトナムのホイアン，フィリピンのマニラ，カンボジアのプノンペン，タイのアユタヤなどの港市に日本町が生まれた。
+                    タイやカンボジアは鹿皮などを，ヴェトナムは生糸などの特産品を日本に輸出し，日本からは銀や銅を輸入した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-2-7">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    メキシコ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    日本
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の銀山から，大量の銀が世界市場に供給された
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペイン・メキシコドルが，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アジア商品の買いつけのためにアジアに供給された。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    メキシコの銀山から，大量の銀が世界市場に供給された
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    日本の銀山から，大量の銀が世界市場に供給された
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    スペイン・メキシコドルが，アジア商品の買いつけのためにアジアに供給された。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代-大交易時代の世界-銀・ドル・円</title>
+            <text>
+                <![CDATA[
+                    １９８５年のプラザ合意後，金融の国際化が著しくすすんでいる。
+                    １９９７年のアジア通貨危機が示しているように，現在では一国の経済は世界経済の変動と直結している。
+                    世界経済の一体化は１６～１７世紀に，メキシコや日本の銀山から，大量の銀が世界市場に供給されたことにはじまる。
+                    アジアの貿易決済にメキシコ鋳造のペソ（ピアストル）銀貨（英米はこれをスペインドル，１８２１年のメキシコ独立後はメキシコドルとよんだ。
+                    英語のドルは１６世紀のドイツ銀貨ターレルの訛りである）が用いられるようになり，世界中の銀価格が等しくなった。
+                    １５世紀末以来，２０世紀はじめまでに，５０億ドル以上のスペイン・メキシコドルが，おもにアジア商品の買いつけのためにアジアに供給された。
+                    １９世紀に西欧諸国が金本位制に移行するなかでも，東アジア・東南アジア貿易では依然として銀貨が基軸貨幣であり，欧米列国はアジア交易のために，競ってメキシコドルを原型とするドル銀貨を鋳造した。
+                    中国では１９世紀のはじめに，円形の１ドル銀貨を銀円とよんでいた。
+                    １９世紀後半，イギリス領香港でメキシコドルと等価の香港ドル銀貨を鋳造し，これを１円銀貨とした。
+                    やがて，円の正字「圓」と同じ発音の「元」を通貨の単位として使うようになった。
+                    日本では，１８７１（明治４）年，明治政府がメキシコドルと等価の円貨を鋳造し，日本の通貨単位は正式に円になった。
+                    同時期，イギリスのボンベイ・カルカッタドル（イギリスドル），フランスの貿易ピアストル（サイゴンドル），アメリカ貿易ドルがそれぞれの植民地通貨として鋳造されている。
+                    １９世紀後半にはインド，東南アジア，東アジアのほとんどがメキシコドル通貨圏を形成していたのである。
+                    現在の通貨単位である中国の元も，日本の円も，アメリカ，オーストラリア，香港，シンガポールなどのドルも，もともとは１５世紀末以来のスペインドルにはじまっている。
+                    銀貨基軸の東アジア国際交易体制も，欧米が金本位制に移行し，また国際的な銀価格の下落がつづいたため，１９世紀末に，インド，日本が金本位制に移行し，１９３０年代に中華民国が最終的に銀貨の流通を禁止することによって，その使命を終えた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-13-2-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明の時代には，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    銀が広く流通するようになった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    諸税を一括して銀でおさめるという
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    一条鞭法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が全国に普及した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    銀の需要を補ったのが，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    メキシコ銀であり，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大量に輸入された日本銀であった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，銀が広く流通するようになった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    諸税を一括して銀でおさめるという一条鞭法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，一条鞭法が全国に普及した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    銀の需要を補ったのが，メキシコ銀であり，大量に輸入された日本銀であった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-中華帝国とアジア-明帝国の成立-明代の社会と経済</title>
+            <text>
+                <![CDATA[
+                    明の時代には，農業生産が一段と向上し，江南では，施肥の普及と品種の改良により，稲作がさらに発展した。
+                    桑・麻・綿花の栽培が国家によって奨励され，綿花の栽培は全国に広がり大衆の衣類は麻の類から木綿にかわっていった。
+                    長江下流域では，綿花が換金作物としてさかんに栽培され，さらに，水利の悪い台地や砂丘地帯でも綿作がすすんだために，米の主産地は，「湖広熟すれば天下足る」といわれたように，長江中流域の湖北・湖南・江西の地域（湖広）に移った。
+                    また１７世紀ごろから，アメリカ大陸からの輸入作物のうち，トウモロコシが華北一帯で，甘藷が江南で広く栽培されるようになり，甘藷は琉球を通して日本にも伝わった。
+                    トウモロコシ（玉蜀黍）・サツマイモ（甘藷）のほか，ジャガイモ（馬鈴薯）・ラッカセイ・唐辛子・トマト・煙草などと多彩であり，米や麦の不作を補ったり，山間部の開拓の際に役立った。
+                    宋代以来の佃戸制は，とくに江南において定着し，長江デルタ地帯では「人のために佃作る者は十分の九」といわれ，抗租（小作料不払い）の運動が，明代から恒常的におこる一方，地域社会（郷村）では，引退した地主層出身の官僚など，官界に発言権をもつ有力な大土地所有者が，地域社会の新しい指導者（郷紳）として成長した。
+                    各種の産業も発展した。
+                    江南では，絹織物や綿織物などの手工業が宋代にひきつづいて発達し，蘇州（江蘇省）や杭州（浙江省）などが商工業都市として繁栄した。
+                    景徳鎮（江西省）などの窯業もさかんで，赤絵や染付などによる繊細な紋様の陶磁器が生産され，重要な輸出品となった。
+                    商工業者は，同郷や同業ということで結束し，都市に会館・公所とよばれる集会所を設けて活動の拠点とした。
+                    同郷商人として勢力を誇ったのが，山西商人（山西省）と新安商人（安徽省）である。
+                    産業が全般的に発展したので，貨幣経済が進展し，銀が広く流通するようになった。
+                    明朝は，１５世紀半ばごろより，紙幣より信用を受ける銀を基本通貨とした。銀の供給は国内の銀鉱山の採掘にたよったが，早々に枯渇した。
+                    いっぽう，１６世紀ごろから，唐代以来の両税法にかわって，土地税（田賦）と人頭税（丁税）など煩雑な諸税を一括して銀でおさめるという一条鞭法が全国に普及した。
+                    この新税法によってさらに高まった銀の需要を補ったのが，１６世紀半ばからスペイン・ポルトガル商人がもたらしたメキシコ銀であり，また１７世紀から大量に輸入された日本銀であった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-1-0">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １５世紀末以降，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    交易ルートとして大西洋と太平洋が加わり，全地球的な交易網が生まれた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中南米
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    日本
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    で採掘された銀は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    世界的な交易網に流入し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    封建制度の再編が行われ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東インド会社
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が生まれた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １５世紀末以降，交易ルートとして大西洋と太平洋が加わり，全地球的な交易網が生まれた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    中南米で採掘された銀は世界的な交易網に流入し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    日本で採掘された銀は世界的な交易網に流入し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    封建制度の再編が行われ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    東インド会社が生まれた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代</title>
+            <text>
+                <![CDATA[
+                    １５世紀はじめの鄭和の遠征時期ごろから，東シナ海，南シナ海，インド洋に，琉球，マラッカ，南インド沿岸，紅海沿岸を結節点とするネットワークが確立した。
+                    １５世紀末以降，ポルトガルがこのネットワークに参加した。
+                    同じころ，新たに交易ルートとして大西洋と太平洋が加わり，全地球的な交易網が生まれた。
+                    中南米と日本で採掘された銀は，この世界的な交易網に流入し，貿易量を飛躍的に拡大させた。
+                    この時代に，異なる地域の需要に応じてつぎつぎと国際商品が生まれ，大量に生産され，地域の分業化がすすんだ。
+                    これまで孤立的な経済，文化圏を維持していた諸世界は大きな変貌のときを迎えた。
+                    世界中の港市が発展し，これまでの帝国的な秩序に対抗した。
+                    大西洋に面した西ヨーロッパの優位が決定した。
+                    その一方で，アメリカ大陸の独自な古アメリカ文明は破壊され，現地人は暴力的にヨーロッパの経済構造に組みこまれた。
+                    海をもたないために辺境に追いやられた東ヨーロッパでは，封建制度の再編が行われ，西ヨーロッパに従属する構造ができた。
+                    人々が利益を求めて動きまわり，世界の経済価値観が標準化し，国家から特権を与えられた東インド会社など巨大な企業体が生まれた。
+                    近代への大きな歩みがはじまる。
+                    しかし，１７世紀後半，日本，中国，ヨーロッパの市場が縮小し，大交易の時代は終わった。
+                    港市にかわって，交易よりもその領域内での生産を重視する国家群が登場してきた。
+                    イギリスの東インド会社は交易よりもベンガル地方の地税収入に，オランダの東インド会社はジャワの領有に重心を移していく。
+                    ヨーロッパでは国民国家の建設がすすむ。
+                    大交易時代の終焉は地域の環境に応じたさまざまな対応を生み，その対応がそれぞれの地域の近代をつくりだしていく。
+                    南シナ海，インド洋の交易が大きく発展した１５世紀から１７世紀にかけては，これまでヴァスコ=ダ=ガマなどヨーロッパ人の活動に重点を置いて，「地理上の発見」あるいは「大航海時代」とよばれていた。
+                    しかし，この時代の国際交易の発展は，ヨーロッパ人渡来以前に準備されていたアジアの航海者のネットワークを基礎としている。
+                    この時代のアジア域内の流通を担ったのは，ダウ船やジャンク船，また朱印船に乗ったアジアの航海者たちであった。
+                    この時代を，世界中の交易規模が大拡大した時代として，「大交易時代」とよぶ。
+                    この章では，この「大交易時代」をあつかう。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-14-1-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパが新たな海外進出を開始した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパが新たな海外進出を開始した
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-大交易時代-海洋帝国の出現-東洋への関心</title>
+            <text>
+                <![CDATA[
+                    ヨーロッパが新たな海外進出を開始した背景には，十字軍以来の東方への関心の高まり，マルコ＝ポーロの『世界の記述（東方見聞録）』などで紹介された東洋の富へのあこがれ，オスマン帝国の地中海進出への危機感，そして当時のヨーロッパの食生活には欠かせないものとなっていた香辛料の直接入手への期待などがあった。
+                    胡椒など香辛料（スパイス）は，当時の主要な保存食である塩漬け肉の調味に欠かせないが，ヨーロッパ地域では生産できず，きわめて貴重であった。富や権力の誇示にも用いられた。当時のヨーロッパ商人は，大きな利益をもたらす胡椒の輸入に狂奔した。
+                    イベリア半島の再征服に成功したポルトガル，スペインの貴族たちは新たな領土の拡大を熱望し，また国王も財政確立のために東方の富を希求していた。
+                    このイベリア半島に，これまで地中海交易を通じてイタリア商人が蓄積した東方の商業知識や航海，造船，天文，地理の知識が伝わると，熱狂的な航海ブームがおこった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-15-2-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントワープは国際商業の中心地となっていた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アムステルダムはアントワープにかわって国際商業と金融の中心として繁栄し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アントワープは国際商業の中心地となっていた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アムステルダムはアントワープにかわって国際商業と金融の中心として繁栄し
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-近世のヨーロッパ-オランダの繁栄と英仏の追いあげ-オランダの独立と商業覇権</title>
+            <text>
+                <![CDATA[
+                    ネーデルラントでは，古くから毛織物業や商業が栄え，南部のフランドル地方のアントワープは国際商業の中心地となっていた。
+                    １６世紀後半，スペインのフェリペ２世がネーデルラントにカトリックを強制し，都市に重税を課したため，貴族が自治権を求めて反抗し，これにカルヴァン派の商工業者が加わって，オランダ独立戦争がはじまった。
+                    カトリック勢力の強い南部１０州（のちのベルギー）は途中で脱落したが，ホラント州など北部７州はユトレヒト同盟を結び，イギリスの援助を受けて戦いつづけた。
+                    そして，１５８１年に独立を宣言し，独立運動の指導者オラニエ公ウィレムを統領とするネーデルラント連邦共和国（オランダ）を成立させ，１６０９年にスペインと休戦した。
+                    オランダは，当時最先端の造船技術をもち，バルト海交易や漁業で栄えたうえ，南部から新教徒の商工業者が移ってきて毛織物業も繁栄した。
+                    さらにスペインやポルトガルの貿易独占に対抗するため，海洋の自由を唱え，アジアやアメリカ大陸に進出し，ブラジルではサトウキビ＝プランテーションを経営し，大西洋奴隷貿易にも加わった。
+                    こうして，オランダは世界全体に貿易網をめぐらせ，英仏に先がけて世界経済の中心となった。
+                    アムステルダムはアントワープにかわって国際商業と金融の中心として繁栄し，独自の市民文化が花開いた。
+                    オランダは，宗教や新しい思想に寛大だったため，亡命者や情報が集まった。
+                    江戸時代，来航が許された唯一の西洋の国はオランダであり，その「和蘭風説書」は鎖国下の日本の貴重な情報源となった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-15-3-2">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ユンカーが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農場領主制が支配的であった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ユンカーが農場領主制が支配的であった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-近世のヨーロッパ-１８世紀のヨーロッパと啓蒙専制国家-プロセインとオーストリアの近代化</title>
+            <text>
+                <![CDATA[
+                    プロイセンは，ホーエンツォレルン家のブランデンブルク選帝侯が，ドイツ騎士団領をもとに成立したプロイセン公国を併合して，１６１８年にできた領邦であった。
+                    １７０１年にはスペイン継承戦争で神聖ローマ皇帝を助けて王号を許された。
+                    プロイセン王国は，第２代のフリードリヒ＝ヴィルヘルム１世のもとで，軍隊や官僚制を整えた。
+                    １７４０年，フリードリヒ２世（大王）が即位した年，オーストリアではマリア＝テレジアがハプスブルク家の家督をついだ。
+                    彼は自ら国内を視察して，産業の振興に努めた。また，ジャガイモ栽培を奨励したことでも知られる。
+                    しかし女子の相続に反対する声があがると，プロイセンは，フランスとともにこれに同調して，オーストリア継承戦争がはじまった。
+                    マリア＝テレジアはフランスをやぶったものの，豊かな鉱工業地帯のシュレジエンをプロイセンに奪われた。
+                    １７５６年，マリア＝テレジアは，長年にわたって敵対してきたフランスと同盟して（外交革命），その奪回をはかったため，七年戦争がおこった。
+                    フリードリヒ２世は，イギリスの支援を受けて戦いぬき，シュレジエンを確保した。
+                    プロイセンは一躍ヨーロッパの強国となったが，経済的にはおくれた地域で，地主貴族ユンカーが農民の賦役労働を用いる農場領主制が支配的であった。
+                    フリードリヒ２世は，重商主義政策によって産業を育成し，軍備の充実をはかった。
+                    王は，また，宗教寛容令を出し，ヴォルテールらの啓蒙思想家を宮廷に招き，「君主は国家第一の下僕」と称した。
+                    そのため啓蒙専制君主の典型とされる。
+                    啓蒙専制主義は，近代化のおくれた国でとられた，君主による上からの改革と富国強兵の体制であった。
+                    貴族の強力な伝統的特権をおさえるために，旧式なものを批判する啓蒙思想がよりどころとされたのである。
+                    しかしプロイセンでは，ユンカーが軍部と官僚の中核を占め，その勢力は２０世紀まで存続した。
+                    プロイセンにやぶれたオーストリアでは，マリア＝テレジアのもとで改革がはじまった。
+                    その子，ヨーゼフ２世は啓蒙専制君主として中央集権化に努め，信教の自由（宗教寛容令）や修道院の解散，さらに貴族の免税特権の廃止などの改革に着手した。
+                    しかし，オーストリアは多民族国家であったため，急激な中央集権化はマジャール人など諸民族の反発をまねき，そのうえ貴族層も改革に強く反対した。
+                    このため，ヨーゼフ２世の死後，多くの改革は撤回された。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-16-2-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    インド綿布の人気が高まり，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    同様な綿布を自国でも生産したいという動機は，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    マンチェスターで綿工業を勃興させた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    技術革新がおこり，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスの綿工業は急速に発展した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    インド綿布の人気が高まり，同様な綿布を自国でも生産したいという動機は，マンチェスターで綿工業を勃興させた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    技術革新がおこり，イギリスの綿工業は急速に発展した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-欧米における国民国家の形成-経済と社会の産業化-工業化と経済成長</title>
+            <text>
+                <![CDATA[
+                    インド綿布の人気が高まり，大西洋を舞台とした三角貿易でも重要な商品となるに応じて，同様な綿布を自国でも生産したいという動機は，奴隷貿易で繁栄したリヴァプールの後背地マンチェスターで綿工業を勃興させた。
+                    １８世紀後半から，ジョン＝ケイが発明した飛び梭が実用化されるなど織布の技術革新がおこり，紡績機の改良もすすんだため，イギリスの綿工業は急速に発展した。
+                    動力には最初，水力が用いられたが，１７８５年にはカートライトの力織機が発明され，その動力源として，ワットが改良した蒸気機関が徐々に採用されていった。
+                    しかしイギリスの産業革命も，１８世紀中に完了したわけではなかった。
+                    １８世紀後半から明確になった機械化・動力化の展開は，すぐには全面化しなかった。
+                    綿工業では，はじめ紡績の機械化が急速にすすんだが，糸の供給が容易になったことで，それはかえって織布の家内工業を発展させた。
+                    織布においても機械制工場が圧倒するのは，１９世紀半ば近くになってからであった。
+                    １８世紀後半のイギリスにはじまり，１９世紀を通じて欧米世界で展開した技術革新と工業化が，経済活動の膨張と長期的な経済成長をもたらしたことはたしかであるが，その成長率は現代の目からすれば，きわめて低いものであった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-7-0-0">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカからは，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大量の
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    銀といった商品が，ヨーロッパにもたらされることになる。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカからは，大量の銀といった商品が，ヨーロッパにもたらされることになる。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容</title>
+            <text>
+                <![CDATA[
+                    コロンブスが“新航路を発見”したのち，南北のアメリカ大陸では，ヨーロッパ世界による大規模な開発がすすんでいった。
+                    鉱山やプランテーションの経営のため，ヨーロッパ，アフリカから大量の移民と奴隷が，“大西洋”をわたって送られた。
+                    逆にアメリカからは，大量の砂糖・綿花・銀といった商品が，ヨーロッパにもたらされることになる。
+                    イギリスにはじまる“産業革命”によって，工場で安い商品をさらに大量に生産することができるようになり，ヨーロッパは，ゆたかに繁栄するアジアも加え，全世界に向けて積極的に進出していくことになった。
+                    ワットの改良した蒸気機関は，動力源として鉄道や船にも応用され，大陸のあいだの移動をさらにはやめる役割をはたしていった。
+                    巨大な人と物の大陸間の移動は，それぞれ地域世界の役割分担をきめながら，世界を一体化させていく。
+                    それによって各地域世界はどのように変化していったのであろうか。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-7-1-7">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明代
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    から，陶磁器や絹がヨーロッパにさかんに輸出されるようになると，海外からメキシコ銀や日本銀が大量にはいってきて，銀の流通がすすんだ。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    地税と人頭税とをまとめて銀でおさめる一条鞭法という税制をはじめた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    一条鞭法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    という税制をはじめた。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明代から，陶磁器や絹がヨーロッパにさかんに輸出されるようになると，海外からメキシコ銀や日本銀が大量にはいってきて，銀の流通がすすんだ。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    地税と人頭税とをまとめて銀でおさめる一条鞭法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    一条鞭法という税制をはじめた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-アジア諸地域世界の繁栄と成熟-明清帝国の繁栄-銀経済の拡大</title>
+            <text>
+                <![CDATA[
+                    明代の１６世紀後半から，陶磁器や絹がヨーロッパにさかんに輸出されるようになると，海外からメキシコ銀や日本銀が大量にはいってきて，銀の流通がすすんだ。
+                    そのため全国を舞台に活動する大商人もあらわれた。
+                    商人や手工業者は同郷，同業の結びつきを強めて利益をあげた。
+                    銀経済の発展にうながされて，１６世紀後半，明は唐以来の両税法にかえて，地税と人頭税とをまとめて銀でおさめる一条鞭法という税制をはじめた。
+                    さらに１８世紀前半，清は人頭税を定額としたうえで，地税に上のせした地丁銀制を実施した。
+                    農村では，１６世紀ごろから小作料不払い（抗租）の運動がしばしばおこるようになった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-7-3-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東南アジアの海域には，各種の香辛料
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を求めて，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    から来航する商人が増加した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    東南アジアの海域には，各種の香辛料を求めて，ヨーロッパから来航する商人が増加した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-アジア諸地域世界の繁栄と成熟-東南アジアの大航海時代-海の文明と港市国家</title>
+            <text>
+                <![CDATA[
+                    １４世紀以降，東南アジアの海域には，各種の香辛料や金や錫などを求めて，インド，西アジア，ヨーロッパ，中国などから来航する商人が増加した。
+                    沿岸や主要な河川には，大きな港市が形成された。
+                    港市は，海上の東西交易と香辛料などの産地である内陸部とを結ぶ接点となり，ここに国際交易を基盤とし後背地を支配する国家があらわれた。
+                    これらは港市国家とよばれ，１７世紀にいたるまで，東南アジアの商業の時代のにない手となった。
+                    港市国家の王は，国際交易を拡大するために，中国への朝貢貿易を行い，イスラーム教を受容してムスリム商人をまねき，港には外国人や貿易を管轄する役人をおいた。
+                    建国の伝説では，王が外来のムスリムと内陸の土着民の双方の血統をひく存在として，えがかれた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-8-1-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペインはペルー
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の鉱山から大量の銀を入手した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    銀は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパに流れこみ，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパの物価の上昇をまねいた（価格革命）。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントワープ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    活発になった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインはペルーの鉱山から大量の銀を入手した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    銀はヨーロッパに流れこみ，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパの物価の上昇をまねいた（価格革命）。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アントワープが活発になった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパの拡大と大西洋世界-大航海時代-大航海のもたらしたもの</title>
+            <text>
+                <![CDATA[
+                    スペインはペルーやメキシコの鉱山から大量の銀を入手した。
+                    この銀はやがてスペインをとおってヨーロッパに流れこみ，穀物など，ヨーロッパの物価の上昇をまねいた（価格革命）。
+                    このなかで，領地の農民から一定金額の貨幣を受けとって生活していた領主層の収入は増加せず，しだいに社会的地位は低下し，毛織物などの商品の生産や流通にかかわっていた商工業者はむしろゆたかになった。
+                    また，それまでヨーロッパに銀を供給していた南ドイツの銀山と，金融業者は没落した。
+                    従来，地中海をとおってヨーロッパに到達したアフリカの象牙や金，アジアの香辛料が大西洋の港につくようになったため，商業のルートは大きくかわった。
+                    数世紀のあいだ繁栄していたジェノヴァやピサなどのイタリア半島の港湾都市はしだいにおとろえ，大西洋に面したリスボンやアントワープなどが大西洋貿易で活発になった。
+                    同時に，地中海とネーデルラント，地中海とバルト海を結んでいた内陸の商業ルートもまた以前ほど活発ではなくなった。
+                    商業ルートの変化は，イタリアの都市国家の地位の低下，大西洋沿岸諸国の発展をもたらし，１７世紀以降のヨーロッパ国際関係の変化をひきおこした。
+                    こうして，大西洋貿易の発展は，商品の流れる方向や商品の種類を大きくかえ（商業革命），ヨーロッパ各地の都市や国，さまざまな社会階層の人々の運命を大きく変化させた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-8-1-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中南米のスペイン領で銀鉱山が発見され，大量の銀がアメリカ大陸からヨーロッパに送りだされた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    日本銀は中国に送られた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国には日本銀のほか，ヨーロッパ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を経由してメキシコ銀がはいってきた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    租税のしくみを変えた（一条鞭法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ）。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    中南米のスペイン領で銀鉱山が発見され，大量の銀がアメリカ大陸からヨーロッパに送りだされた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    日本銀は中国に送られた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    中国には日本銀のほか，ヨーロッパを経由してメキシコ銀がはいってきた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    租税のしくみを変えた（一条鞭法）。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパの拡大と大西洋世界-大航海時代-世界史の舞台世界を結んだ銀</title>
+            <text>
+                <![CDATA[
+                    １５４０年代，中南米のスペイン領で銀鉱山が発見され，大量の銀がアメリカ大陸からヨーロッパに送りだされた。
+                    産出された銀は多い年には４５０ｔにのぼり，中世から銀を供給していた南ドイツの１０倍にものぼった。
+                    銀は主として貨幣となった。
+                    大量の銀貨の流入で，ヨーロッパの経済のしくみは大きく変わり，富裕な商工業者の出現の背後で，没落していく人々もいた。
+                    アジアでも銀の流通がはじまっていた。
+                    １５３０年代，日本の石見（島根県），生野（兵庫県）などで銀鉱山が発見され，大量の銀が生産されるようになった。
+                    その生産量は，年によっては世界の銀生産の３分の１にものぼった。
+                    日本銀は中国に送られた。
+                    当時，明は北方のモンゴルの侵入になやまされていた。
+                    明は北部辺境においた大軍を維持するために銀で食料を買いつけた。
+                    このためにばく大な銀が必要とされた。
+                    中国で産出される銀は少なく，外国から入手する必要があった。
+                    しかし，民間の貿易は禁止されていたので，密貿易商人が活躍した。
+                    これが１６世紀のいわゆる後期倭寇で，おもに中国人が日本を拠点として活動した。
+                    日本の銀と中国産の生糸・絹織物の取り引きは利益が大きく，しかも日中間の直接の貿易は禁止されていたので，琉球や台湾，ヴェトナムのトンキンなどを舞台に，中国，琉球，ポルトガル，オランダなどの商人が中継貿易を行った。
+                    こうした流れのなかで，日本には生糸・絹織物，綿織物，陶磁器，砂糖，茶などの中国製品，さらには鉄砲，毛織物などのヨーロッパ商品が送りこまれた。
+                    中国には日本銀のほか，ヨーロッパあるいはフィリピンを経由してメキシコ銀がはいってきた。
+                    大量の銀の流入は租税のしくみを変えた（一条鞭法，地丁銀制）。
+                    銀を入手するために輸出用の陶磁器生産を拡大し，庶民も綿などの商品作物栽培をさかんに行った。
+                    これらは一部の都市や農村の繁栄をもたらしたが，疲弊した農村も多く，全体に貧富の格差を大きくした。
+                    その後，日本は鎖国の時代にはいるが，オランダ，朝鮮，琉球との交易をとおして，日本銀は中国に送りつづけられた。
+                    １８世紀になると日本の銀は枯渇し，最大の輸出商品を失うが，このころから銅の大量生産に成功し，世界有数の銅の輸出国になってゆく。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-8-4-2">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アムステルダムは世界の貿易と金融の中心となった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アムステルダムは世界の貿易と金融の中心となった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパの拡大と大西洋世界-近代主権国家の成立-スペインの繁栄とオランダの独立</title>
+            <text>
+                <![CDATA[
+                    スペインは１６世紀のフェリペ２世の時代に最盛期をむかえた。
+                    フェリペ２世はスペイン王としてネーデルラント，南イタリアなどを支配したが，さらにポルトガル王位をかねることになり，ポルトガルの植民地を手にいれた。
+                    彼の領土は世界中に広がり，「太陽の沈まぬ国」といわれた。
+                    レパントの海戦でオスマン帝国軍をやぶったフェリペは，カトリック世界の擁護者と自負した。
+                    しかし，彼のもとでネーデルラントの独立戦争がおこり，イギリスとの戦争で無敵艦隊が敗北した。
+                    スペインはアメリカ大陸からばく大な利益を得たが，富は国内の商工業を発展させず，戦争や宮廷の豪華な生活にあてられたので，しだいに衰退に向かった。
+                    中世から毛織物生産や貿易で栄えたネーデルラントには，スペイン支配のもとで，スペインの富が流入し，商工業が発達した。
+                    商工業者にはカルヴァン派が多く，フェリペ２世がカトリックの信仰を強制すると，スペイン支配に対する反抗がおきた。
+                    カトリック教徒の多い南部（今日のベルギー）はスペイン王国にとどまったが，北部は１５８１年に独立を宣言し，ネーデルラント連邦共和国（オランダ）となった。
+                    オランダには，強い権力をもつ君主が存在せず，市民は自由な経済活動を行い，強力な海運業にささえられて，アムステルダムは世界の貿易と金融の中心となった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-9-1-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリス綿工業発展のきっかけを生んだインド
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリス綿工業発展のきっかけを生んだインド
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパ・アメリカ諸国の発展-産業革命-世界の工場と世界</title>
+            <text>
+                <![CDATA[
+                    イギリスで大量生産された綿布は世界中に輸出された。
+                    このため，古くから手工業で品質のよい綿布を生産していたインドの綿織物産業はおとろえ，イギリス綿工業発展のきっかけを生んだインドは，綿花をイギリスに供給するだけになった。
+                    またアメリカ南部では，１９世紀はじめからイギリスに供給するために黒人奴隷による原綿生産がさかんになった。
+                    １９世紀なかば以降になるとイギリスは鉄鋼や機械，さらに鉄道建設のための資材まで輸出するようになり，「世界の工場」とよばれるようになった。
+                    はじめ工業技術を独占していたイギリスは，１９世紀前半に他国にも技術を提供するようになり，フランスやドイツでもイギリスと同じような工業化がすすんだ。
+                    アメリカでも北部を中心に工業が発展した。
+                    １９世紀末になると，ロシアと日本でも同じように工業化の努力がはじまった。
+                    このころには，電気と石油が新しいエネルギー源として登場し，アメリカとドイツでは化学工業などがさかんになった。
+                    その一方でアジアやアフリカなどの多くの地域では，先進工業国からの工業製品の輸入によって伝統的な産業が崩壊し，工業国に原料や食料を供給する役割を負わされるようになった。
+                    工業化に成功した先進国と，これらの諸国に経済的に依存する原料供給国の不平等な関係は，２０世紀になって南北問題といわれるようになる。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2752">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペインが対アジア貿易に使用した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国商人の持ってきた絹織物や陶磁器などと交換され，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国国内での銀の流通を加速させた。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインが対アジア貿易に使用した
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    中国商人の持ってきた絹織物や陶磁器などと交換され，中国国内での銀の流通を加速させた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    中国国内での銀の流通を加速させた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>メキシコ銀</title>
+            <text>
+                <![CDATA[
+                    16世紀以降，スペインが対アジア貿易に使用したラテンアメリカ産の銀貨。16世紀後半以降は，スペイン領マニラを仲介地とし，中国商人の持ってきた絹織物や陶磁器などと交換され，中国国内での銀の流通を加速させた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2754">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明代後半，大量に輸入されて流通した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明代後半，大量に輸入されて流通した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>日本銀</title>
+            <text>
+                <![CDATA[
+                    日本から中国に輸出された銀。とくに中国産の銀の産出が減少した明代後半，大量に輸入されて流通した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2755">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    田賦（土地税）と丁税（人頭税）などを一括して銀で納めることとした
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    田賦（土地税）と丁税（人頭税）などを一括して銀で納めることとした
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>一条鞭法</title>
+            <text>
+                <![CDATA[
+                    明代後半から清初に実施された税制。田賦（土地税）と丁税（人頭税）などを一括して銀で納めることとした新税法。16世紀後半，まず江南で施行され，同世紀末までに全国に波及した。銀の流通増大を反映したもの。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3186">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ここで採掘された大量の銀がヨーロッパに送られ，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    価格革命がおこった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ここで採掘された大量の銀がヨーロッパに送られ，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    価格革命がおこった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>ポトシ銀山</title>
+            <text>
+                <![CDATA[
+                    1545年発見された，現在のボリビア南部のアメリカ大陸最大の銀山。ここで採掘された大量の銀がヨーロッパに送られ，価格革命がおこった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3200">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    新航路の開拓
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    で，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパを中心とした世界の一体化が促進された
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ経済の中心は，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大西洋岸都市に移った。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    新航路の開拓で，世界の一体化が促進された
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパ経済の中心は，大西洋岸都市に移った。
+                </extraction_text>
+            </extraction_text_set>
+            <title>商業革命</title>
+            <text>
+                <![CDATA[
+                    新航路の開拓，アメリカ大陸への到達で，商品の産地，商品の種類と量などが，従来のヨーロッパ規模から，アジア・アメリカ大陸を含む地球規模に拡大し，ヨーロッパを中心とした世界の一体化が促進されたことをいう。この結果，ヨーロッパ経済の中心は，北イタリア都市から大西洋岸都市に移った。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3202">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントウェルペンが衰退後，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    繁栄の中心となり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アントウェルペンが衰退後，繁栄の中心となり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>アムステルダム</title>
+            <text>
+                <![CDATA[
+                    スペイン領ネーデルラント北部の河港市。アントウェルペンが衰退後，ネーデルラント繁栄の中心となり，オランダ独立後今日まで，首都としてのみならず経済的にももっとも重要な都市となっている。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3203">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    16世紀前半から
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    繁栄した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アムステルダムにその地位を譲った。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    16世紀前半から繁栄した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アムステルダムにその地位を譲った。
+                </extraction_text>
+            </extraction_text_set>
+            <title>アントウェルペン,アントワープ</title>
+            <text>
+                <![CDATA[
+                    ベルギー北部の有力港湾都市。12世紀頃より発展し始め，14世紀初めにはハンザ同盟に加盟した。16世紀前半からスペイン領となり，アメリカ大陸への毛織物輸出で本国のどの港市よりも繁栄した。オランダ独立戦争中の1585年，スペイン軍に破壊され，アムステルダムにその地位を譲った。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3204">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸から大量の貴金属（銀）が流入し，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    物価が騰貴した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸から大量の貴金属（銀）が流入し，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    物価が騰貴した
+                </extraction_text>
+            </extraction_text_set>
+            <title>価格革命</title>
+            <text>
+                <![CDATA[
+                    16世紀半ば以降，アメリカ大陸から大量の貴金属（銀）が流入し，ヨーロッパの銀価が下落し，物価が騰貴したことをいう。西欧諸国では商工業がさかんになる一方，南ドイツの銀を独占していた大富豪や南欧港市の商業資本の没落を決定的にし，貨幣地代で生活していた領主にも打撃を与えた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3208">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    地主貴族が，おもに輸出用の穀物を生産するために，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    経営する
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    地主貴族が，おもに輸出用の穀物を生産するために，経営する
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>グーツヘルシャフト</title>
+            <text>
+                <![CDATA[
+                    地主貴族が，おもに輸出用の穀物を生産するために，農民の賦役労働を利用して経営する大農場。西欧に比べて商工業に遅れをとった東欧（プロイセンが中心）で発展した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3209">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東欧の領主が，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西欧への榖物輸出の拡大に応ずる
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農民に賦役労働を課す大農場経営を行って
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    東欧の領主が，農民に賦役労働を課す大農場経営を行って
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西欧への榖物輸出の拡大に応ずる
+                </extraction_text>
+            </extraction_text_set>
+            <title>再版農奴制</title>
+            <text>
+                <![CDATA[
+                    16世紀頃になり，東欧（プロイセンやポーランドが中心）で展開された農奴制。東欧の領主が，西欧への榖物輸出の拡大に応ずるため，農民に賦役労働を課す大農場経営を行って広まった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3400">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    15世紀後半以降，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパでもっとも繁栄を誇る都市となった
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    15世紀後半以降，ヨーロッパでもっとも繁栄を誇る都市となった
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>アントウェルペン,アントワープ</title>
+            <text>
+                <![CDATA[
+                    ベルギー北部の商業都市。15世紀後半以降，中継貿易と金融業でヨーロッパでもっとも繁栄を誇る都市となったが，1585年スペイン軍の占領で荒廃した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3401">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントウェルペンの荒廃
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を経て，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    経済・政治・文化の中心となり，17世紀前半は西ヨーロッパ一の繁栄を誇った。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アントウェルペンの荒廃を経て，経済・政治・文化の中心となり，17世紀前半は西ヨーロッパ一の繁栄を誇った。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>アムステルダム</title>
+            <text>
+                <![CDATA[
+                    オランダの首都（立法や行政の中心はハーグ）。アントウェルペンの荒廃，オランダの独立などを経て，ネーデルラント連邦共和国の経済・政治・文化の中心となり，17世紀前半は西ヨーロッパ一の繁栄を誇った。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3577">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西欧への輸出用榖物の生産を行う
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    16世紀以降，エルベ川以東のプロイセンで発達した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西欧への輸出用榖物の生産を行う
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    16世紀以降，エルベ川以東のプロイセンで発達した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>グーツヘルシャフト</title>
+            <text>
+                <![CDATA[
+                    農場領主制。地主貴族が自由農民を農奴化し，その賦役労働によって西欧への輸出用榖物の生産を行う農場経営形態。西欧の資本主義生産の発展に伴い，16世紀以降，エルベ川以東のプロイセンで発達した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3578">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ユンカーがグーツヘルシャフトにおいて
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    行われた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ユンカーがグーツヘルシャフトにおいて行われた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>再版農奴制</title>
+            <text>
+                <![CDATA[
+                    16世紀頃からプロイセンを中心に展開された農奴制。ユンカーがグーツヘルシャフトにおいて農民に賦役労働を課して行われた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3609">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    香辛料を求めるヨーロッパ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    香辛料を求めるヨーロッパ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>香辛料貿易</title>
+            <text>
+                <![CDATA[
+                    香辛料を求めるヨーロッパと，それを産出するインド・東南アジアとの間での貿易。マムルーク朝やオスマン帝国などのイスラーム勢力がこれを支配して大きな利益をあげていたが，15世紀末以降，新たにポルトガルが参入した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3829">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東インド会社がインド産の綿織物を輸入すると，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    発達した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    産業革命が始まった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    東インド会社がインド産の綿織物を輸入すると，発達した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    産業革命が始まった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>木綿工業</title>
+            <text>
+                <![CDATA[
+                    18世紀後半に毛織物工業に代わって繊維産業の中心となった工業。18世紀に東インド会社がインド産の綿織物を輸入すると，毛織物に代わり需要が高まり，アメリカやインドから輸入した綿花を股料として発達した。ギルド規制がほとんどなく新技術の導入が容易で，紡績・織布の両工程で技術革新が推進され，産業革命が始まった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-07-02-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    諸大陸を結ぶ海上交易の発展
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    スペインによってラテンアメリカの銀山が開発され，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大量の銀が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アジア
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    に流れこんだ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中国の生糸
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が銀によって買い付けられ
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    諸大陸を結ぶ海上交易の発展
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    スペインによってラテンアメリカの銀山が開発され，
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    大量の銀がヨーロッパに流れこんだ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    大量の銀がアジアに流れこんだ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    中国の生糸が銀によって買い付けられ
+                </extraction_text>
+            </extraction_text_set>
+            <title>海の道の発展-世界の一体化と銀</title>
+            <text>
+                <![CDATA[
+                    １６世紀にはいると，諸大陸を結ぶ海上交易の発展により，各地の海域世界はたがいに密接に結びつくようになったが，その活発な遠距離商業をささえたのは，銀の増産であった。
+                    アメリカ大陸の征服をすすめたスペインによってラテンアメリカの銀山が開発され，大量の銀がヨーロッパやアジアに流れこんだほか，日本でも銀山の開発がすすんだ。
+                    スペイン銀貨（上）と丁銀（下）スペインがアメリカ大陸で鋳造したスペイン銀貨は，アジア内部の交易にももちいられる国際的通貨であった。１６世紀後半から１７世紀初めにかけて，日本の銀も丁銀などの銀塊の形で輸出され，アジアの交易に重要な役割をはたした。
+                    東南アジアのコショウ・香料や中国の生糸，インドの綿布などアジアの特産品が銀によって買い付けられ，その販路は急速に拡大した。
+                    スペイン銀貨（上）と丁銀（下）スペインがアメリカ大陸で鋳造したスペイン銀貨は，アジア内部の交易にももちいられる国際的通貨であった。１６世紀後半から１７世紀初めにかけて，日本の銀も丁銀などの銀塊の形で輸出され，アジアの交易に重要な役割をはたした。
+                    アジアに進出したヨーロッパ商人と現地の政権や商人とは，貿易の利益をめぐってときには協力し，ときには抗争する複雑な関係を結んだ。
+                    東アジアの海域でも日本人・中国人の密貿易集団（倭寇）やポルトガル・オランダなどのヨーロッパ勢力の活動が活発化し，明の海禁政策はくずれていった。
+                    国際商業の発展にともない，火縄銃や大砲などヨーロッパの新式火器がアジア各地にひろまり，新興政権の成立をささえた。
+                    トウモロコシ・サツマイモ・ジャガイモ・トマトなどのアメリカ大陸作物も世界にひろまり，人びとの生活に大きな影響をあたえた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-08-01-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東南アジアでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    香辛料輸出が大幅にのび，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ勢力
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が争いをくりひろげた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    日本の銀，ついでアメリカ大陸のスペイン植民地で採掘された銀が大量に中国に流入した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    東南アジアでは香辛料輸出が大幅にのび，ヨーロッパ勢力が争いをくりひろげた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    日本の銀，ついでアメリカ大陸のスペイン植民地で採掘された銀が大量に中国に流入した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>アジア諸地域の繁栄-東アジア・東南アジア世界の動向-朝貢体制の動揺</title>
+            <text>
+                <![CDATA[
+                    １６世紀になると，大航海時代の世界的な商業の活発化が明を中心とする朝貢体制を動揺させた。
+                    東南アジアではコショウなど香辛料輸出が大幅にのび，貿易の利益をめぐって，ヨーロッパ勢力や新興の交易国家が争いをくりひろげた。
+                    イスラームに改宗していたマラッカ王国が１６世紀初めにポルトガルに占領されると，スマトラ島のアチェ王国やジャワ島のマタラム王国などイスラーム国家が勢力をのばして諸島部の新たな貿易中心地となり，ポルトガルに対抗した。
+                    インドシナ半島では，タイのアユタヤ朝，ミャンマーのトゥングー朝などの仏教国が，米や獣皮など豊かな産物を利用して，貿易の利益で繁栄した。
+                    中国の周辺でも１６世紀には国際商業が繁栄した。
+                    とくに同世紀なかばには，北方のモンゴル，東南海岸の倭寇の活動が激化して明を苦しめた（北虜南倭）が，それは貿易の利益を求める人びとが明の統制政策を打破しようとする動きであり，多くの中国人もそれに加わっていた。
+                    当時モンゴルを統合したアルタン=ハン（１５０７～８２）は，しばしば長城をこえて侵入し，１５５０年には北京を包囲した。
+                    その結果，明は海禁をゆるめざるをえず，当時急速に生産をのばした日本の銀，ついでアメリカ大陸のスペイン植民地で採掘された銀が大量に中国に流入した。
+                    また中国の貿易商人たちは，東南アジア各地に進出して中国人町をつくった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-08-01-5">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    各種の税
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を銀に一本化して納入する
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    一条鞭法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の改革が実施された。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    各種の税を銀に一本化して納入する一条鞭法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                一条鞭法の改革が実施された。
+                </extraction_text>
+            </extraction_text_set>
+            <title>アジア諸地域の繁栄-東アジア・東南アジア世界の動向-明後期の社会と文化</title>
+            <text>
+                <![CDATA[
+                    国際商業の活発化は，中国国内の商工業の発展をうながした。
+                    長江下流域では綿織物や生糸に代表される家内制手工業がさかんになり，原料となる綿花や養蚕に必要な桑の栽培が普及した。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    このため，明末には長江中流域の湖広（現在の湖北・湖南省）が新たな穀倉地帯となり，「湖広熟すれば天下足る」と称せられた。
+                    また景徳鎮に代表される陶磁器も生産をのばした。
+                    生糸や陶磁器は，日本やアメリカ大陸，ヨーロッパに輸出される代表的な国際商品であった。
+                    商業・手工業の発展にともない，山西商人や徽州（新安）商人など明の政府と結びついた特権商人が全国的に活動して巨大な富をきずいた。
+                    大きな都市には，同郷出身者や同業者の互助や親睦をはかるための会館や公所もつくられた。
+                    税の納入も銀でおこなわれるようになり，１６世紀には各種の税や徭役を銀に一本化して納入する一条鞭法の改革が実施された。
+                    貨幣経済の発展とともに都市には商人や郷紳など富裕な人びとが集まり，庭園の建設や骨董の収集など文化生活を楽しんだ。
+                    明を代表する画家・書家の董其昌のように，高級官僚を経験しながら芸術家として名声をえた文化人も多かった。
+                    木版印刷による書物の出版も急増し，科挙の参考書や小説，商業・技術関係の実用書などが多数出版されて書物の購買層はひろがった。
+                    『三国志演義』『水滸伝』『西遊記』『金瓶梅』などの小説が多くの読者を獲得し，庶民向けの講談や劇も都市のさかり場や農村でさかんに演じられた。
+                    儒学のなかでは，１６世紀初めに王守仁（王陽明）が，無学な庶民や子供でもほんらいその心のなかに真正の道徳をもっている（心即理）と主張し，外面的な知識や修養にたよる当時の朱子学の傾向を批判した。
+                    ありのままの善良な心を発揮し（致良知），その心のままに実践をおこなう（知行合一）ことを説いた陽明学は，学者のみならず庶民のあいだにもひろい支持をえた。
+                    明末文化の一つの特色は，科学技術への関心の高まりである。
+                    『本草綱目』（李時珍著），『農政全書』（徐光啓編），『天工開物』（宋応星著）などの科学技術書がつくられ，日本など東アジア諸国にも影響をあたえた。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    当時の科学技術の発展には，１６世紀なかば以降東アジアに来航したキリスト教宣教師の活動も重要な役割をはたした。
+                    日本でのキリスト教普及の基礎をきずいたイエズス会宣教師のフランシスコ＝ザビエルは，中国布教をめざしたが実現せず，その後マテオ＝リッチらが１６世紀末に中国にはいって布教をおこなった。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    マテオ＝リッチ（左）徐光啓徐光啓はリッチに学び，西洋学術の導入につとめた。彼は『崇禎暦書』や『幾何原本』の作成にも参加している。
+                    キリスト教が庶民層にひろまった日本とことなり，中国では，ヨーロッパの自然科学や軍事技術に関心をもつ士大夫層がキリスト教をうけいれた。
+                    リッチが作製した世界地図の『坤輿万国全図』は，中国に新しい地理知識をひろめ，日本などにも伝えられた。
+                    西洋暦法による『崇禎暦書』や「ユークリッド幾何学」の翻訳である『幾何原本』なども刊行された。
+                    マテオ＝リッチ（左）徐光啓徐光啓はリッチに学び，西洋学術の導入につとめた。彼は『崇禎暦書』や『幾何原本』の作成にも参加している。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-08-02-5">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    生糸や陶磁器
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の輸出によって中国には銀が流れこみ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    生糸や陶磁器の輸出によって中国には銀が流れこみ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>-清代の中国と隣接諸地域-清代の社会経済と文化</title>
+            <text>
+                <![CDATA[
+                    三藩の乱の鎮圧と台湾の占領によって清朝の支配が安定すると，清朝は海禁を解除し，中国商人の帆船交易やヨーロッパ船の来航をつうじて，海上貿易は順調に発展した。
+                    生糸や陶磁器，茶などの輸出によって中国には銀が流れこみ，国内商業の発展をささえた。
+                    東南アジアとの貿易をおこなう福建や広東の人びとは，清朝の禁令をおかして東南アジアに住みつき，農村と国際市場を結ぶ商業網をにぎって経済力をのばし，のちの南洋華僑のもとになった。
+                    １８世紀なかばに乾隆帝はヨーロッパ船の来航を広州１港に制限し，公行という特定の商人組合に貿易を管理させた。
+                    １８世紀には政治の安定のもと，中国の人口は急増した。
+                    アメリカ大陸から伝来したトウモロコシやサツマイモなど，山地でも栽培可能な新作物は，山地の開墾をうながして，人口増をささえた。
+                    しかし土地の相対的な不足は多くの土地なし農民をうみだした。
+                    税制では，１８世紀初めの地丁銀制により，丁税（人頭税）が土地税にくりこまれて制度の簡略化がはかられた。
+                    明代後期の文化が動乱期の世相を反映してダイナミックな力強さを感じさせるとすれば，それに比較して清代の文化はおちついた繊細さをみせているといえよう。
+                    明清交替の混乱を経験した顧炎武や黄宗羲など清初の学者は，社会秩序を回復するには現実を離れた空論でなく，事実にもとづく実証的な研究が必要だと主張した。
+                    実証を重視するその主張は清代中期の学者にうけつがれ，儒学の経典の校訂や言語学的研究を精密におこなう考証学が発展し，銭大昕などの学者が出た。
+                    『紅楼夢』や儒林外史など清代中期の長編小説も，細密な筆致で上流階級や士大夫たちの生活を描写している。
+                    清朝はイエズス会の宣教師を技術者として重用した。
+                    暦の改定をおこなったアダム＝シャール（湯若望）やフェルビースト（南懐仁），中国全図の『皇輿全覧図』作製に協力したブーヴェ（白進），ヨーロッパの画法を紹介したり円明園の設計に加わったカスティリオーネ（郎世寧）などはその例である。
+                    イエズス会宣教師は布教にあたって中国文化を重んじ，信者に孔子の崇拝や祖先の祭祀などを認めたが，これに反対する他派の宣教師がローマ教皇に訴えたことから典礼問題がおこった。
+                    教皇はイエズス会宣教師の布教方法を否定したため，これに反発した清朝は雍正帝の時期にキリスト教の布教を禁止した。
+                    宣教師たちによってヨーロッパに伝えられた儒教・科挙など中国の思想・制度や造園術などの文化は，ヨーロッパ人のあいだに中国に対する興味をよびおこした。
+                    １８世紀の啓蒙思想家のあいだでは中国と比較してヨーロッパの国家体制の優劣が論じられ，また芸術のうえでもシノワズリ（中国趣味）が流行した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-09-01-0">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １５世紀末から，ヨーロッパ人は海外進出にのりだし
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    世界の一体化がすすみ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １５世紀末から，ヨーロッパ人は海外進出にのりだし世界の一体化がすすみ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>近代ヨーロッパの成立-ヨーロッパ世界の拡大-</title>
+            <text>
+                <![CDATA[
+                    第９章では，近代初期（近世とよばれることもある）のなかでも１５世紀末から１７世紀前半のヨーロッパをとりあげる。
+                    １５世紀末から，ヨーロッパ人は海外進出にのりだし，「大航海時代」が到来した。
+                    そこから世界の一体化がすすみ，その結果，ヨーロッパの経済・社会も大きく変化した。
+                    この時期には，思想・芸術・科学などの文化の領域でも，新しい動きがあらわれた。
+                    人間性の自由・解放を求め，各人の個性を尊重しようとするこの文化運動をルネサンスとよび，中世盛期の文化とくらべて，現世に生きる楽しみや理性・感情の活動がより重視された。
+                    １６世紀には，カトリック教会を批判する動きがドイツからヨーロッパ各地にひろまった。
+                    この宗教改革に対して，カトリック教会も内部革新にとりくんだ。
+                    その結果，人びとの信仰が内面化され，各国の教会はそれぞれ個性を強めて，世俗の政治秩序も大きな影響をうけた。
+                    こうしたできごとを背景に，１５世紀末から１７世紀前半に，ヨーロッパの国ぐには，従来よりも強固なまとまりを獲得し，独立した主権国家としてたがいに対立と妥協をくりかえしながら，一つの国際秩序を形成していった。
+                    １６世紀にはスペインが全盛であったが，１７世紀前半にはヨーロッパ全体が危機の時代をむかえ，そのなかで，あらたにオランダ・イギリス・フランスなどの国が有力となっていった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-09-01-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大航海時代の到来とともに，世界の一体化がはじまった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパ商業は世界的広がりをもつようになり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ポトシ銀山
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    から大量の銀が流入し，ヨーロッパの物価は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    上昇した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    この物価騰貴は価格革命とよばれ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    エルベ川以東の東ヨーロッパ地域は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西欧諸国に穀物を輸出するため
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    領主が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    輸出用穀物を生産する直営地経営をおこなう
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農場領主制（グーツヘルシャフト）
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    がひろまり，農奴に対する支配がかえって強化された。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    大航海時代の到来とともに，世界の一体化がはじまった。ヨーロッパ商業は世界的広がりをもつようになり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    ポトシ銀山から大量の銀が流入し，
+                </extraction_text>
+                 <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパの物価は上昇した。この物価騰貴は価格革命とよばれ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    エルベ川以東の東ヨーロッパ地域は領主が農場領主制（グーツヘルシャフト）がひろまり，農奴に対する支配がかえって強化された。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西欧諸国に穀物を輸出するため
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    輸出用穀物を生産する直営地経営をおこなう農場領主制（グーツヘルシャフト）
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>近代ヨーロッパの成立-ヨーロッパ世界の拡大-商業革命と価格革命</title>
+            <text>
+                <![CDATA[
+                    大航海時代の到来とともに，世界の一体化がはじまった。
+                    ヨーロッパ商業は世界的広がりをもつようになり，商品の種類・取引額が拡大し，ヨーロッパにおける遠隔地貿易の中心は地中海から大西洋にのぞむ国ぐにへ移動した（商業革命）。
+                    世界商業圏の形成は，広大な海外市場をひらくことで，すでにめばえはじめていた資本主義経済の発達をうながした。
+                    また，１５４５年に発見されたポトシ銀山など，ラテンアメリカの銀山から大量の銀が流入し，ヨーロッパの物価は２～３倍に上昇した。
+                    アメリカ大陸で，スペイン・ポルトガル系の言語・文化がひろまったメキシコ以南の地域の総称。
+                    この物価騰貴は価格革命とよばれ，固定地代の収入で生活する領主は打撃をうけた。
+                    ラテンアメイリカの銀はアジアにももたらされ，アジアの経済にも大きな影響をあたえた。
+                    西欧諸国では商工業が活発となる一方，エルベ川以東の東ヨーロッパ地域は西欧諸国に穀物を輸出するため，領主が輸出用穀物を生産する直営地経営をおこなう農場領主制（グーツヘルシャフト）がひろまり，農奴に対する支配がかえって強化された。
+                    これは再版農奴制といわれる。
+                    ヨーロッパにおける東・西間の分業体制の形成は，その後の東欧の発展に大きな影響をあたえた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-09-04-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    オランダは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東インド会社を設立して
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アムステルダムは，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アントウェルペン（アントワープ）にかわって国際金融の中心となり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    オランダは東インド会社を設立して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アムステルダムは，アントウェルペン（アントワープ）にかわって国際金融の中心となり
+                </extraction_text>
+            </extraction_text_set>
+            <title>主権国家体制の形成-オランダの独立とイギリスの海外進出</title>
+            <text>
+                <![CDATA[
+                    商業の発達したネーデルラントには，カルヴァン派の新教徒が多かった。
+                    この地を支配したスペイン王フェリペ２世はカトリック化政策を強め，それまで大幅に認められてきた自治権をうばおうとして，１５６８年諸州の激しい反乱をまねいた。
+                    南部フランドル地方の１０州はスペインの支配下にとどまったが，北部７州は１５７９年ユトレヒト同盟を結んで，オラニエ公ウィレム（オレンジ公ウィリアム）のもとに抵抗を続け，１５８１年，ネーデルラント連邦共和国の独立を宣言した。
+                    この国はオランダともよばれるが，それは連邦の中心ホラント州の名に由来する。
+                    豊かなオランダが反乱をおこしたことは，スペインにとって大きな打撃になった。
+                    さらに，オランダ独立を支援したイギリスを攻撃するため，スペインは１５８８年に無敵艦隊（アルマダ）をおくったが，イギリス海軍に敗れて，制海権を失うきっかけとなった。
+                    その後もスペインはオランダの奪回につとめたが，オランダはバルト海での中継貿易で富をたくわえ，さらに１６０２年に東インド会社を設立して東南アジアにまで貿易網をひろげ，国力を強めて，１６０９年の休戦条約で独立を事実上かちとった（オランダ独立戦争）。
+                    オランダのアムステルダムは，フランドルのアントウェルペン（アントワープ）にかわって国際金融の中心となり，１７世紀前半にオランダは学芸もさかんな全盛期をむかえた。
+                    イギリスの王権はテューダー朝のもとで強化されたが，統治にあたって国王は，議会で地域社会を代表した，ジェントリ（郷紳）とよばれる大地主の自発的協力を必要とした。
+                    １５３０年代にはじまる宗教改革で国王は国内の教会組織の頂点にたち，１６世紀後半には新教国としての国民意識が形成された。
+                    こうした改革が議会立法をつうじて達成されたことは，イギリス絶対王政における議会の重要性を示している。
+                    イギリスでは，１５世紀末以来，領主や地主が農地を農民からとりあげて生垣や塀でかこいこんで牧場にする囲い込み（エンクロージャー）がすすんで羊毛生産が増大し，毛織物工業が国民産業となった。
+                    １８世紀には，食料増産の目的で議会が推進した第２次の囲い込みが進行した。
+                    １６００年の東インド会社設立にみられるエリザベス１世時代の積極的な海外進出はこれを背景としており，その点でイギリスは，連邦制のもとで強い中央権力を欠き，その繁栄を中継貿易に依存していたオランダにまさっていた。
+                    イギリスの航海者ドレーク（１５４０ころ～９６）は，途中スペインの植民地やスペイン船を攻撃しながら，１５７７年から８０年にかけて世界周航を達成し，のちに無敵艦隊との戦いでも活躍した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-11-01-2">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    インドから輸入された，より軽い綿布の需要が高まった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    綿工業がイギリス国内に発達した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    インドから輸入された，より軽い綿布の需要が高まった。綿工業がイギリス国内に発達した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    
+                </extraction_text>
+            </extraction_text_set>
+            <title>欧米における近代社会の成長-産業革命-機械の発明と交通機関の改良</title>
+            <text>
+                <![CDATA[
+                    拡大する市場に向けての大量生産を可能にする技術革新は，まず綿工業の分野で，マンチェスターを中心にはじまった。
+                    従来イギリスのおもな工業は毛織物業であったが，１７世紀末には，インドから輸入された，より軽い綿布の需要が高まった。
+                    綿布と，その原料である綿花は，大西洋の三角貿易で重要な商品となり，綿工業がイギリス国内に発達した。
+                    １７３３年，ジョン＝ケイによって飛び杼が発明されると，綿織物の生産量が急速にふえて綿糸が不足した。
+                    その結果，ハーグリーヴズの多軸紡績機（ジェニー紡績機，１７６４年ころ），アークライトの水力紡績機（１７６９年），クロンプトンのミュール紡績機（１７７９年）などがつぎつぎに発明され，良質の綿糸が大量に生産されるようになった。
+                    ジェニー紡績機産業革命初期の機械はまだ小型であった。ジェニーは発明者ハーグリーヴズの娘の名ともいわれる。
+                    そこでふたたび織物機械の改良がうながされ，１７８５年，力織機がカートライトによって発明された。
+                    また１８世紀初めにニューコメンが蒸気力によるポンプを発明していたが，１７６９年にワットが蒸気機関を改良すると，これが水力にかわって，紡績機や力織機などの動力として利用され，生産の効率をさらに高めた。
+                    このような紡績・織布・動力の諸部門における発明は綿工業を繁栄させ，資本家は多数の労働者を雇用する機械制の大工場の経営にのりだした。
+                    それにともなって，機械を製造する機械工業，機械の原料である鉄をつくる鉄工業，蒸気機関や溶鉱炉で使われる石炭を生産する石炭業など，ほかの部門も飛躍的な発達をとげた。
+                    大規模な機械制工業が発達すると，大量の原料・製品・石炭などをできるだけはやく安く輸送するため，交通機関の改良の必要がうまれた。
+                    １８世紀後半には国内の輸送路として運河網が形成されたが，１９世紀にはいると鉄道がこれにかわった。
+                    スティーヴンソンにより１８１４年に製作された蒸気機関車が，２５年に実用化されて以来，鉄道は公共の陸上輸送機関として普及した。
+                    また１８０７年には，アメリカ人フルトンが蒸気船を試作した。
+                    こうして１９世紀には交通・運輸の一大変革（交通革命）がおこり，世界各地を結ぶ産業・貿易・文化の交流発展に貢献した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title></title>
+            <text>
+                <![CDATA[
+                ]]>
+            </text>
+        </doc>
+	</doc_set>
+</data>

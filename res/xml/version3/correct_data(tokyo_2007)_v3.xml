@@ -1,0 +1,2457 @@
+<?xml version="1.0"?>
+<data version="1.0.0" exam_id="tokyo_2007">
+	<gs>
+		<content>
+			<![CDATA[
+			中世西ヨーロッパでは、１１世紀頃から普及した三圃制農法が棃・水車の改良とあいまって農業生産力を増大させ、人口増加とそれに伴う都市の発展や東方植民の原因となった。同時期の中国では、宋代にベトナムから日照りに強い占城稲が導入され、長江下流の水稲地帯で集約的農法が発展したが、明代になると長江下流では家内制手工業が盛んとなり、原料である綿花や桑の栽培が普及したため、米の主産地は「湖広熟すれば天下足る」といわれるように長江中流域に移動した。１６世紀以降にはアメリカ大陸のトウモロコシが家畜の飼料として世界各地に普及し、アンデス原産のジャガイモは主にヨーロッパの寒冷地に拡大してその人口増を支えたのが、アイルランドでは１９世紀半ばの「ジャガイモ飢饉」によって多くの餓死者とアメリカへの移民を生むことになった。一方、１８世紀のイギリスではノーフォーク農法や第２次囲い込みに代表される農業革命によって、農業の資本主義化が進み、この結果土地を失った農民は都市に流入して産業革命を支える労働力となった。また産業革命によって台頭した産業資本家の要求により、地主保護のため制定されていた穀物法廃止が実現し、イギリスでは自由貿易体制が確立した。
+			]]>
+		</content>
+		<gs_index_set>
+			<gs_index expression_id="" start="" length="">
+                中世
+			</gs_index>
+            <gs_index expression_id="" start="" length="">
+                西ヨーロッパでは、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １１世紀頃から
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                普及した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                三圃制農法
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                棃
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ・
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                水車
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の改良
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                とあいまって
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                農業生産力を増大させ、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                人口増加
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                と
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                それに伴う
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                都市の発展
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                や
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                東方植民
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の原因となった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                同時期の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                中国では、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                宋代に
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ベトナムから
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                日照りに強い
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                占城稲
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が導入され、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                長江下流
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                水稲地帯
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                で
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                集約的農法が発展した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                明代になると
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                長江下流では
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                家内制手工業が盛んとなり、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                原料である
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                綿花
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                や
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                桑
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の栽培が普及した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                米の主産地は
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                「湖広熟すれば天下足る」といわれる
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ように
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                長江中流域に移動した。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １６世紀以降には
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アメリカ大陸の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                トウモロコシが
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                家畜の飼料として
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                世界各地に普及し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アンデス原産の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ジャガイモは
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                主に
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ヨーロッパ
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の寒冷地
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                に拡大して
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                人口増を支えた
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アイルランドでは
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １９世紀半ばの
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                「ジャガイモ飢饉」によって
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                多くの
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                餓死者
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                と
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                アメリカへの移民
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                を生むことになった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                １８世紀の
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                イギリスでは
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                ノーフォーク農法
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                や
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                第２次囲い込み
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                に代表される
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                農業革命
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                によって、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                農業の資本主義化が進み、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                この結果
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                土地を失った
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                農民
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                は
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                都市に流入して
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                産業革命を支える
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                労働力となった。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                産業革命によって
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                台頭した
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                産業資本家
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                の要求により、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                地主保護のため制定されていた
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                穀物法
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                廃止
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                が実現し、
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+                イギリスでは自由貿易体制が確立した。
+            </gs_index>
+            <gs_index expression_id="" start="" length="">
+            </gs_index>
+        </gs_index_set>
+		<gs_sentence_set>
+            <gs_sentence id="">
+                西ヨーロッパでは、１１世紀頃から普及した三圃制農法
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、普及した三圃制農法
+            </gs_sentence>
+            <gs_sentence id="">
+                普及した三圃制農法
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、１１世紀頃から普及した棃
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、棃の改良
+            </gs_sentence>
+            <gs_sentence id="">
+                普及した棃の改良
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、１１世紀頃から普及した水車
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、水車の改良
+            </gs_sentence>
+            <gs_sentence id="">
+                普及した水車の改良
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、１１世紀頃から農業生産力を増大させ、
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、農業生産力を増大させ、
+            </gs_sentence>
+            <gs_sentence id="">
+                三圃制農法が農業生産力を増大させ、
+            </gs_sentence>
+            <gs_sentence id="">
+                水車が農業生産力を増大させ、
+            </gs_sentence>
+            <gs_sentence id="">
+                農業生産力を増大させ、
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、１１世紀頃から人口増加
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、人口増加
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、人口増加とそれに伴う東方植民
+            </gs_sentence>
+            <gs_sentence id="">
+                都市の発展
+            </gs_sentence>
+            <gs_sentence id="">
+                西ヨーロッパでは、東方植民の原因となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では、宋代にベトナムから日照りに強い占城稲が導入され、
+            </gs_sentence>
+            <gs_sentence id="">
+                中国では、宋代に日照りに強い占城稲が導入され、
+            </gs_sentence>
+            <gs_sentence id="">
+                長江下流の水稲地帯で集約的農法が発展した
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると家内制手工業が盛んとなり、
+            </gs_sentence>
+            <gs_sentence id="">
+                家内制手工業が盛んとなり、
+            </gs_sentence>
+            <gs_sentence id="">
+                原料である綿花や桑の栽培が普及した
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると綿花や桑の栽培が普及した
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると綿花の栽培が普及した
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると米の主産地は長江中流域に移動した。
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると米の主産地は「湖広熟すれば天下足る」といわれる
+            </gs_sentence>
+            <gs_sentence id="">
+                明代になると「湖広熟すれば天下足る」といわれる
+            </gs_sentence>
+            <gs_sentence id="">
+                １６世紀以降にはアメリカ大陸のトウモロコシが世界各地に普及し、
+            </gs_sentence>
+            <gs_sentence id="">
+                アメリカ大陸のトウモロコシが世界各地に普及し、
+            </gs_sentence>
+            <gs_sentence id="">
+                １６世紀以降にはアンデス原産のジャガイモは主にヨーロッパの寒冷地に拡大して
+            </gs_sentence>
+            <gs_sentence id="">
+                アンデス原産のジャガイモは主にヨーロッパの寒冷地に拡大して
+            </gs_sentence>
+            <gs_sentence id="">
+                アンデス原産のジャガイモは主にヨーロッパに拡大してその人口増を支えた
+            </gs_sentence>
+            <gs_sentence id="">
+                アイルランドでは１９世紀半ばの「ジャガイモ飢饉」によって多くの餓死者を生むことになった。
+            </gs_sentence>
+            <gs_sentence id="">
+                アイルランドでは１９世紀半ばの「ジャガイモ飢饉」によって多くのアメリカへの移民を生むことになった。
+            </gs_sentence>
+            <gs_sentence id="">
+                アイルランドでは１９世紀半ばの「ジャガイモ飢饉」によって多くの移民を生むことになった。
+            </gs_sentence>
+            <gs_sentence id="">
+                １８世紀のイギリスでは第２次囲い込みに代表される農業革命
+            </gs_sentence>
+            <gs_sentence id="">
+                １８世紀のイギリスではノーフォーク農法
+            </gs_sentence>
+            <gs_sentence id="">
+                １８世紀のイギリスでは第２次囲い込み
+            </gs_sentence>
+            <gs_sentence id="">
+                １８世紀のイギリスでは農業の資本主義化が進み、
+            </gs_sentence>
+            <gs_sentence id="">
+                イギリスでは第２次囲い込みによって、土地を失った農民
+            </gs_sentence>
+            <gs_sentence id="">
+                イギリスでは土地を失った農民
+            </gs_sentence>
+            <gs_sentence id="">
+                土地を失った農民
+            </gs_sentence>
+            <gs_sentence id="">
+                農民は都市に流入して
+            </gs_sentence>
+            <gs_sentence id="">
+                都市に流入して
+            </gs_sentence>
+            <gs_sentence id="">
+                イギリスでは農民は労働力となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                農民は労働力となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                農民は産業革命を支える労働力となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                農業革命によって、農民は産業革命を支える労働力となった。
+            </gs_sentence>
+            <gs_sentence id="">
+                地主保護のため制定されていた穀物法
+            </gs_sentence>
+            <gs_sentence id="">
+                イギリスでは産業革命によって台頭した産業資本家の要求により、穀物法廃止が実現し、
+            </gs_sentence>
+            <gs_sentence id="">
+                台頭した産業資本家の要求により、穀物法廃止が実現し、
+            </gs_sentence>
+            <gs_sentence id="">
+                産業資本家の要求により、穀物法廃止が実現し、
+            </gs_sentence>
+            <gs_sentence id="">
+                イギリスでは自由貿易体制が確立した。
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+            <gs_sentence id="">
+            </gs_sentence>
+		</gs_sentence_set>
+	</gs>
+
+	<query>
+		<!--from="Q(Question) or K(Keyword) or GS(GrandStandard)" -->
+		<query_term id="" from="">
+		</query_term>
+	</query>
+
+	<doc_set>
+		<doc docno="T-WH-A-1-1-5-11">
+			<query_term_id_set_set>
+				<query_term_id_set id="1">1,3,9</query_term_id_set>
+			</query_term_id_set_set>
+			<doc_index_set>
+				<doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパでは，１１世紀ごろから
+				</doc_index>
+				<doc_index gs_sentence_id="" start="" length="">
+                    農業生産力が上昇し
+				</doc_index>
+				<doc_index gs_sentence_id="" start="" length="">
+                    人口も増加して
+				</doc_index>
+			</doc_index_set>
+			<extraction_text_set>
+				<!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+				<extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは，１１世紀ごろから農業生産力が上昇し
+				</extraction_text>
+				<extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは，１１世紀ごろから人口も増加して
+				</extraction_text>
+			</extraction_text_set>
+			<title>近・現代世界史の背景～諸地域世界とその交流-ユーラシアの諸地域世界-ヨーロッパとキリスト教文化-十字軍と封建社会の変化</title>
+			<text>
+				<![CDATA[
+                    西ヨーロッパでは，１１世紀ごろから農業生産力が上昇し，人口も増加して，社会には活気がみなぎり始めていた。
+                    十字軍の遠征も，この社会全体にたくわえられたエネルギーが，外へむかっていったものとみることができる。
+                    １１世紀末からヨーロッパの諸侯は，ローマ教皇の提唱に応じて軍隊を組織し，聖地イェルサレムをイスラーム教徒の手から奪回しようとこころみた。
+                    この十字軍は結局，失敗に終わったが，こののち，ヴェネツィア，ジェノヴァなどを中心に東方貿易は活発になり，商業や都市が発展した。
+                    １２世紀ごろから貨幣経済が進展すると，領主は，領主直営地を農民保有地にかえ，生産物や貨幣で地代を徴収するようになった。
+                    また１４世紀以降，戦乱が続発し，ペスト（黒死病）の流行もあって，人口が減少したため，農民の地位は向上した。
+                    こうして農奴身分から解放された独立自営農民があらわれた。
+				]]>
+			</text>
+		</doc>
+        <doc docno="T-WH-A-2-3-1-8">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の時代には，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    米の
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    おもな産地は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中流域に広がり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    綿花の栽培が全国的におこなわれ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    手工業がめざましい発展をとげ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸からの輸入作物であるトウモロコシ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が栽培されるようになり
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，米のおもな産地は長江中流域に広がり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，綿花の栽培が全国的におこなわれ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸からの輸入作物であるトウモロコシが栽培されるようになり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，米のおもな産地は「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には，手工業がめざましい発展をとげ
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-中華帝国の繁栄と東アジア-明，清時代の社会と文化</title>
+            <text>
+                <![CDATA[
+                    明，清の時代には，長江の中・下流域を中心に，産業がいっそう発達した。
+                    農業技術の進歩にともない米の二期作も始まり，そのおもな産地は長江下流域から中流域に広がり，「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                    また，茶や綿花の栽培が全国的におこなわれ，１７世紀ごろからはアメリカ大陸からの輸入作物であるトウモロコシ，甘藷（サツマイモ）などが栽培されるようになり，甘藷は琉球をへて日本に伝わった。
+                    明代中期以降，江南では絹織物や綿織物などの手工業がめざましい発展をとげ，蘇州などの都市が繁栄した。
+                    商業も活発になり，アメリカ大陸や日本から流入した銀を背景に，貨幣経済が農村にも浸透した。
+                    しかし，軍事費として銀が北辺に運ばれるため国内の銀不足が深刻化し，税や徭役の増大にともなって農民の生活は苦しくなった。
+                    そのため，地主に対して小作料（佃租）の不払いを要求する抗租運動をおこす者もあらわれた。
+                    銀の全国的な流通は税制にも変化をおよぼした。
+                    １６世紀後半には土地税と徭役とを銀で一括して納入する一条鞭法が一般化した。
+                    これは，清代に人頭税を土地税のなかにくりこんで徴収する地丁銀制へと引きつがれた。
+                    明代には，儒学に知行合一を説く陽明学がおこり，さらに産業などに役立つ実用的な学問も発達した。
+                    明末清初には，イエズス会宣教師マテオ・リッチらによってヨーロッパの文化が紹介された。
+                    また，清代には，きびしい思想の統制もあって，厳格な古典研究をめざす考証学がさかんになった。
+
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-3-4-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １６世紀のヨーロッパでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ジャガイモ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    などの
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸産の作物がもちこまれて
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １６世紀のヨーロッパではトウモロコシなどのアメリカ大陸産の作物がもちこまれて
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    １６世紀のヨーロッパではジャガイモなどのアメリカ大陸産の作物がもちこまれて
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-アジア諸帝国の繁栄とヨーロッパ-１６世紀のヨーロッパ-新航路の発見</title>
+            <text>
+                <![CDATA[
+                    １４８８年，ポルトガルのバルトロメウ・ディアスはアフリカ南端（喜望峰）に到達し，１４９８年にはヴァスコ・ダ・ガマが喜望峰をへてインド西部のカリカットにいたった。
+                    西むきの航路でアジアをめざしたコロンブスは，１４９２年にカリブ海のサン・サルバドル島へ到達した。
+                    また１５２２年に達成されたマゼラン隊の世界周航は，地球が球体であることを証明した。
+                    造船技術や航海術，羅針盤の発達などを背景に進められたヨーロッパ人による新航路の開拓は，それまで独自の世界を形成してきた諸文明圏を一つの世界に結びつけていく始まりとなった。
+                    新航路の開拓は，ヨーロッパ社会に大きな影響を与えた。
+                    商業の中心はこれまでのイタリア諸都市から大西洋岸へ移動した（商業革命）。
+                    またアメリカ大陸から大量の銀がもたらされたため，１６世紀のヨーロッパでは価格革命とよばれる物価の上昇がおこり，社会層の変動がうながされた。
+                    さらに，トウモロコシ，ジャガイモ，トマトなどのアメリカ大陸産の作物がもちこまれて，食生活に大きな影響を与えた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-4-3-2">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １８世紀に
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスには
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    第２次囲いこみ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    があらわれ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    多数の農民が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地を失い
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    新しい産業が必要とする労働力の供給源となる
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業革命とよばれている。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １８世紀にイギリスには第２次囲いこみがあらわれ農業革命とよばれている。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    多数の農民が土地を失い
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    多数の農民が新しい産業が必要とする労働力の供給源となる
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-大西洋世界の変容とその波及-産業革命と世界市場の形成-農業革命と第２次囲いこみ</title>
+            <text>
+                <![CDATA[
+                    １８世紀に植民地をめぐる争いに勝利したイギリスには，あらたに広大な市場の可能性がひらかれた。
+                    そのうえこの世紀には，輪作が普及するなど農業技術の改良が進み，それにともなう人口増加や戦争で，穀物の需要がいちじるしく増大した。
+                    これに刺激され，１８世紀後半，地主層があらたに共有地や小作地を囲いこみ経営を拡大する動き（第２次囲いこみ）があらわれた。
+                    これによって多数の農民が土地を失い，新しい産業が必要とする労働力の供給源となるいっぽう，市場むけの大規模な穀物生産が発展した。
+                    こうした変化は農業革命とよばれている。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-4-3-7">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農村からの人々の流入
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    農村からの人々の流入
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-大西洋世界の変容とその波及-産業革命と世界市場の形成-社会問題や労働問題の発生</title>
+            <text>
+                <![CDATA[
+                    農村からの人々の流入により人口が急増した都市には貧民街が形成され，犯罪や不衛生などの社会問題がおこった。
+                    また，工場での低賃金や長時間労働などの労働問題も登場し，これらは社会生活の根本からの変化をうながすことになった。
+                    都市化の進展は田園への郷愁という新しい感情もうんだが，社会はもはやあともどりできない産業化の過程に歩を進めていた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-5-2-8">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １８４０年代には
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    じゃがいも飢饉
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    などのため
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アイルランド
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    から多くの移民が合衆国へわたった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １８４０年代にはじゃがいも飢饉などのためアイルランドから多くの移民が合衆国へわたった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-産業化社会の拡大と成熟-国民国家への道-南北戦争後のアメリカ社会</title>
+            <text>
+                <![CDATA[
+                    南北戦争後，産業化が急速に進み多くの労働力を必要としたため，移民が増加した。
+                    １８６９年には最初の大陸横断鉄道が開通したが，この建設には多数の中国人移民が従事した。
+                    またそのころ，合衆国はロシアよりアラスカの広大な土地を購入した。
+                    これはのちに豊富な資源を供給するものとなった。
+                    農業の機械化も進み，小麦の生産では世界一となった。
+                    天然資源，国内市場にもめぐまれ，電灯や電信・電話などの新技術もいちはやく導入されて，工業もいちじるしい成長をとげた。
+                    合衆国は国の成り立ちからして，移民の受けいれに積極的であった。
+                    １８４０年代には“じゃがいも飢饉”や三月革命の失敗などのため，アイルランドやドイツから多くの移民が合衆国へわたった。
+                    奴隷貿易の禁止後は，中国人，つづいて日本人などアジア系移民が急増した。
+                    １９世紀末には，これにユダヤ人もふくめて東ヨーロッパや南ヨーロッパからの移民も加わり，合衆国は独自の多民族社会を形成していった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-A-2-5-2-18">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    都市への人口の集中も進み
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>成熟するアジアと世界へむかうヨーロッパ-産業化社会の拡大と成熟-国民国家への道-ヨーロッパ社会の変容</title>
+            <text>
+                <![CDATA[
+                    １９世紀をつうじてヨーロッパの人口は，死亡率の急激な低下によりいちじるしく増加した。
+                    衛生への関心の高まりや栄養状態の改善，都市での上下水道の整備や医学の進歩などがその原因である。
+                    イギリスでは１００年のあいだに人口が４倍に増え，平均寿命も２倍にのびている。
+                    人口増加は，工業化の原動力として１９世紀の経済発展に重要な役割をはたしただけではなく，あらたな生産をうながす需要の増大にも結びついていた。
+                    また産業革命の進展と交通の発達にともなって，都市への人口の集中も進み，これに対応するために，市壁を撤去するなど近代的な街づくりがおこなわれた。
+                    清潔で美しい街並みをもつ近代的な都市が出現したいっぽうで，産業化のなかでまずしい人々も激増し，スラムも形成された。
+                    社会的富の配分はますます不平等となっていった。
+                    この時代は，貴族が依然として大きな力をもっていたが，社会の流動化も始まり，新しい生活態度や価値観がうみだされた。
+                    これまでの家柄にかわって個人の才能が重視されるようになり，実業家や銀行家などの経済力をもつ人々や，医者や法律家などの専門知識，技術をもった人々が新しい階層として上昇した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-1-7-0-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の作物
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １７世紀にユーラシア大陸に運ばれ
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸はトウモロコシの作物群は１７世紀にユーラシア大陸に運ばれ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>さまざまな世界の時代-古アメリカ世界--メキシコ高原と中央アメリカ</title>
+            <text>
+                <![CDATA[
+                    アメリカ大陸で最初に農耕文化が発展したのは，メキシコ高原と中央アメリカ，それにアンデス高地の３か所であった。
+                    これらの地域には人口が集中した。
+                    温帯半乾燥のメキシコ高原のインディオたちは，前１５００年ごろから夏作雑穀で乾燥に強いトウモロコシを栽培する独自な農耕文化を生みだし，定住社会をつくっていった。
+                    アメリカ大陸の先住民をさす。コロンブスが誤って，先住民をインディオとよんだ。北米大陸の先住民をさす「インディアン」は，現在は差別語であるとして使われていない。
+                    アメリカ大陸はジャガイモ，トウモロコシの二大作物のほか，サツマイモ，トマト，トウガラシ，カボチャ，ラッカセイなど独自な作物体系をつくりだした。これらの作物群は１５～１７世紀にユーラシア大陸に運ばれ，食文化を豊かにした。
+                    前９世紀になると，メキシコ湾岸地域に，泥と石を用い，広場をそなえたピラミッド型神殿が建設された。
+                    特殊な絵文字をもち，聖獣ジャガーや聖鳥ケツァルを信仰するこの文明はオルメカ文明とよばれ，その後の中央アメリカ諸文明に大きな影響を与える。
+                    前１世紀のメキシコ高原には，多くの巨大なピラミッド型神殿をもつテオティワカン文明が生まれ，６世紀まで栄えた。
+                    このメキシコ高原の都市文明は中央アメリカのユカタン半島に伝わり，３世紀ごろマヤ文明が成立した。
+                    マヤ文明では，絵文字で飾られた石造建築による都市が多数建設され，天文観測も高度に発達し，精密な暦法がつくりだされた。
+                    農業では，従来からの焼き畑だけでなく，灌漑をともなう定住農耕が行われていたと考えられている。
+                    このマヤ文明は，１０世紀にメキシコ高原のトルテカ族の侵入によって滅んだ。
+                    これらメキシコ高原と中央アメリカの文明は，メソアメリカ文明と総称される。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-2-9-2-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    宋代には
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    占城稲
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    がヴェトナム方面から伝えられ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    栽培されるようになった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    宋代には占城稲がヴェトナム方面から伝えられ栽培されるようになった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>競いあう世界の時代-東アジア世界の変容-都市の時代のおとずれ-江南の稲作の発展</title>
+            <text>
+                <![CDATA[
+                    長江流域一帯の江南の開発が本格化したのは，華北の混乱をのがれて，多くの人々が江南へと移り住んだ五胡十六国時代以降のことである。
+                    とくに南朝の諸政権は，台地の間にため池をつくって水田を造成し，人々の定着をはかった。
+                    唐代では，長江下流域の山地の谷間に水田が新たに開発され，大量の米が大運河を通して華北へと運ばれた。
+                    遼や金の支配をのがれた人々もまた，江南へと移住した。
+                    宋代には，華北の水利・土木の技術が江南にも導入され，長江デルタ地帯まで開拓の手がのびた。
+                    新興の地主層（形勢戸）は，佃戸を駆使しての建設や干拓による水田造成を行った。
+                    低湿地には，大堤防で囲った「ウ田」や「囲田」，水路と堤防で干拓した「湖田」がつくられた。
+                    また１１世紀ころ，占城稲という生長の早い稲がヴェトナム方面から伝えられ，台地や海岸部の水利の悪い土地に栽培されるようになった。
+                    こうして，「江浙（蘇湖）熟すれば天下足る」といわれるように，長江下流域の江蘇・浙江の地方が，華北をしのぐ大穀倉地帯となった。
+                    同時に，江南では茶の栽培もさかんとなり，喫茶の風習が東アジアに普及し，茶は重要な輸出品となった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-2-10-1-0">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業の発展
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    人口の増加
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは農業の発展
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは人口の増加
+                </extraction_text>
+            </extraction_text_set>
+            <title>競いあう世界の時代-ヨーロッパ世界の成立と変容</title>
+            <text>
+                <![CDATA[
+                    地中海世界を統合したローマ帝国の分裂後，５世紀には西ローマ帝国が滅亡する。
+                    東方では古代の遺制をひきずりながら，なおビザンツ帝国のもとで新たな発展がつづき，聖俗の権力を統合する社会に移行しつつあった。
+                    西方では，ゲルマン人やケルト人の影響が加わり，新しい競合関係が生まれていた。
+                    とはいえ，広大な領域に強力な覇権を長期にわたってふるうにはいたらず，統率力のない指導者のもとで，たえず分裂の危機をはらんでいた。
+                    不安定な乱立がつづくなかで，８世紀になるとフランク王国が強大化し，西ヨーロッパ世界に新たな秩序が形成されることになった。
+                    しかし，その強大な覇権も長くはつづかず，９世紀半ばには分裂してしまう。
+                    そのころ，すでに定住していたスラヴ人に加えて，９世紀ごろからマジャール人，ノルマン人などの民族移動が活発になり，ヨーロッパは激動の時期を迎えた。
+                    この混乱のなかから，東ヨーロッパでは，ビザンツ帝国の影響下にスラヴ人の諸国家がならび立つことになる。
+                    しかし，ビザンツ帝国は皇帝支配の弱体化とともに，独自の封建化がすすむ一方で，東方では遊牧民の侵入になやまされ，やがて１５世紀半ばに滅亡してしまう。
+                    ここにおいてローマ帝国は名実ともに歴史の舞台から消え去ったのである。
+                    １０世紀を中心とする民族移住の激動のなかから，西ヨーロッパでは内陸部の農業を基盤とする封建社会が明らかな姿をあらわした。
+                    さらに，農業の発展や人口の増加を背景に，西ヨーロッパ世界は外部への膨張に転じるようになる。
+                    これらの活動のなかで，権威を強める教皇権のかけ声のもとで十字軍の遠征がくわだてられたが，それはほとんど所期の目的を達成することはなかった。
+                    この失敗で封建社会の基盤はくずれ，世俗の王権と都市の力が強まっていった。
+                    １４世紀になると，疫病や飢饉，外部勢力の侵入や戦乱があいつぎ，ヨーロッパは「危機の時代」を迎えた。
+                    しかし，その困難な時代のなかでは，新しい世界の秩序が胎動していたのである。
+                    それは同時に，新しく開花する近代文明のめばえを含んでおり，やがてルネサンス運動に結実していく。
+                    この章では，５世紀から１６世紀までのヨーロッパ世界をめぐって，東西ヨーロッパ世界の成立と変容，さらにはその解体過程を通じて新しい近代世界が胎動するさまをあつかう。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-2-10-3-5">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業技術の改善がなされ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    有輪犂
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    水車
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が普及し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    三圃制の農法が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    普及して
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産力は安定した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    集落の規模も大きくなった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    農業技術の改善がなされ有輪犂が普及し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農業技術の改善がなされ水車が普及し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    三圃制の農法が普及して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農業生産力は安定した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    集落の規模も大きくなった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>競いあう世界の時代-ヨーロッパ世界の成立と変容-封建社会と都市-中世の農民生活</title>
+            <text>
+                <![CDATA[
+                    中世社会には，戦う人（貴族），祈る人（聖職者），働く人という三身分があったが，働く人の大多数は農民であった。
+                    １２世紀ごろから，農業技術の改善がなされ，鉄製農具，有輪犂や水車が普及し，牛馬に農具をひかせる方法も改良された。
+                    さらに，三圃制の農法が多くの地域に普及して，農業生産力は安定した。
+                    また，領主による荘園の形成にともない，農民の集落の規模も大きくなった。
+                    荘園の耕地は垣や堀で仕切られない開放耕地であることが多かった。
+                    このために，主要な農作業は共同で行われ，農民は相互扶助と相互規制の両面をもつ村落社会の結合を強めた。
+                    農事暦による祭礼や教会行事はもちろん，過酷な領主支配に対抗する一揆や逃散も，村落社会全体で行われた。
+                    村落社会のまとまりは，村を単位とする教区教会によって象徴される。
+                    教区司祭は冠婚葬祭や日曜ミサなどを通じて日ごろから住民たちへの布教に努めた。
+                    しかし，庶民の信仰は，マリア信仰や聖人・聖遺物崇拝，あるいは泉水での治癒祈願などにみられるように，土俗的色彩の濃い信心のうえに，キリスト教の要素がつぎあわさったものであった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-13-2-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明の時代には
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    桑・
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    綿花の栽培が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    奨励され
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    米の主産地は，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    「湖広熟すれば天下足る」といわれた
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江中流域
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    に移った。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １７世紀ごろから
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸からの
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシが華北一帯で
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    栽培されるようになり
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には桑・綿花の栽培が奨励され
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には米の主産地は，長江中流域に移った。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明の時代には米の主産地は，「湖広熟すれば天下足る」といわれた
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    １７世紀ごろからアメリカ大陸からのトウモロコシが華北一帯で栽培されるようになり
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-中華帝国とアジア-明帝国の成立-明代の社会と経済</title>
+            <text>
+                <![CDATA[
+                    明の時代には，農業生産が一段と向上し，江南では，施肥の普及と品種の改良により，稲作がさらに発展した。
+                    桑・麻・綿花の栽培が国家によって奨励され，綿花の栽培は全国に広がり大衆の衣類は麻の類から木綿にかわっていった。
+                    長江下流域では，綿花が換金作物としてさかんに栽培され，さらに，水利の悪い台地や砂丘地帯でも綿作がすすんだために，米の主産地は，「湖広熟すれば天下足る」といわれたように，長江中流域の湖北・湖南・江西の地域（湖広）に移った。
+                    また１７世紀ごろから，アメリカ大陸からの輸入作物のうち，トウモロコシが華北一帯で，甘藷が江南で広く栽培されるようになり，甘藷は琉球を通して日本にも伝わった。
+                    トウモロコシ（玉蜀黍）・サツマイモ（甘藷）のほか，ジャガイモ（馬鈴薯）・ラッカセイ・唐辛子・トマト・煙草などと多彩であり，米や麦の不作を補ったり，山間部の開拓の際に役立った。
+                    宋代以来の佃戸制は，とくに江南において定着し，長江デルタ地帯では「人のために佃作る者は十分の九」といわれ，抗租（小作料不払い）の運動が，明代から恒常的におこる一方，地域社会（郷村）では，引退した地主層出身の官僚など，官界に発言権をもつ有力な大土地所有者が，地域社会の新しい指導者（郷紳）として成長した。
+                    各種の産業も発展した。
+                    江南では，絹織物や綿織物などの手工業が宋代にひきつづいて発達し，蘇州（江蘇省）や杭州（浙江省）などが商工業都市として繁栄した。
+                    景徳鎮（江西省）などの窯業もさかんで，赤絵や染付などによる繊細な紋様の陶磁器が生産され，重要な輸出品となった。
+                    商工業者は，同郷や同業ということで結束し，都市に会館・公所とよばれる集会所を設けて活動の拠点とした。
+                    同郷商人として勢力を誇ったのが，山西商人（山西省）と新安商人（安徽省）である。
+                    産業が全般的に発展したので，貨幣経済が進展し，銀が広く流通するようになった。
+                    明朝は，１５世紀半ばごろより，紙幣より信用を受ける銀を基本通貨とした。銀の供給は国内の銀鉱山の採掘にたよったが，早々に枯渇した。
+                    いっぽう，１６世紀ごろから，唐代以来の両税法にかわって，土地税（田賦）と人頭税（丁税）など煩雑な諸税を一括して銀でおさめるという一条鞭法が全国に普及した。
+                    この新税法によってさらに高まった銀の需要を補ったのが，１６世紀半ばからスペイン・ポルトガル商人がもたらしたメキシコ銀であり，また１７世紀から大量に輸入された日本銀であった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-16-2-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １８世紀前半に休耕地を設けない輪作法など新農法が普及して
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    多くの農民が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地や仕事を失い
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    都市へ移住して
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    工業化を支える労働力となった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは１８世紀前半に休耕地を設けない輪作法など新農法が普及して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農業生産力が増大し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    多くの農民が土地や仕事を失い
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    多くの農民が都市へ移住して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    多くの農民が工業化を支える労働力となった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-欧米における国民国家の形成-経済と社会の産業化-ヨーロッパの人口増大と農業革命</title>
+            <text>
+                <![CDATA[
+                    イギリス・オランダ・北フランスなど北西ヨーロッパを先頭にして，西ヨーロッパでは，１８世紀前半には休耕地を設けない輪作法など新農法が普及して農業生産力が増大し，食糧事情は好転した。
+                    貿易の拡大は大都市の経済を活性化させ，農村の一部には海外輸出を目的とした問屋制の手工業を発展させた。
+                    １４世紀から猛威をふるってきたペストも，西ヨーロッパでは１８世紀前半には姿を消した。
+                    こうした好条件によって，ヨーロッパの人口は持続的な増加の局面に入っていった。
+                    人口の増加が穀物の需要を高めると，大地主は村の共用地や小作地を囲いこんで大農場とし（第２次囲いこみ），市場向けの大規模な穀物生産が発展した。
+                    それとともに，多くの農民が土地や仕事を失い，彼らは農業労働者となるか，都市へ移住して工業化を支える労働力となった。
+                    以上のような変化を農業革命という。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-16-5-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    地主を保護する穀物法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    産業資本家が台頭し，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    実業家
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    穀物法の撤廃を実現させた。
+                </doc_index>
+                
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    産業資本家が台頭し，地主を保護する穀物法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    実業家が穀物法の撤廃を実現させた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-欧米における国民国家の形成-社会変革の夢～新しい革命の波-イギリスの自由主義改革</title>
+            <text>
+                <![CDATA[
+                    ナポレオン戦争後の不況期にイギリスでは，輸入穀物に高関税をかけて地主を保護する穀物法など，保護政策がとられた。
+                    しかし１８２０年代に入ると産業資本家が台頭し，強力な経済力を基盤に，内政・外交両面での自由主義的な改革がすすめられた。
+                    １８２８年の審査法廃止，２９年のカトリック教徒解放法によって，非国教徒も公職につけるようになった。
+                    １８０１年にイギリスに併合されたアイルランドの政治家オコンネル（１７７５～１８４７）は，下院議員に選ばれたが，カトリック教徒であったために当選を拒否された。カトリック教徒解放法の成立により，下院に入った。
+                    また１８２４年の団結禁止法の廃止は，労働組合運動の合法化に道を開き，３３年には工場法が制定されて児童労働に制限が加えられた。
+                    選挙制度の改革も，大きな政治問題になった。
+                    産業革命による都市人口の急増など，はげしい人口移動にもかかわらず制度が古いままだったため，有権者の少ない腐敗選挙区があり，下院議員の選挙資格も地主層に独占されていた。
+                    フランス七月革命は改革派を勢いづけ，１８３２年に第１次選挙法改正が実現した。
+                    腐敗選挙区は廃止され，選挙権は新興の中間市民層にまで拡大された。
+                    このころから政党の再編がすすみ，トーリー党は保守党とよばれるようになり，主として地主層の利益を代弁し，ウィッグ党は自由党とよばれて，おもに商工業者の利益を代表した。
+                    対外的には，資本の自由な活動を認める自由貿易主義がとられ，１８３４年には東インド会社の中国貿易独占権が廃止された。
+                    穀物法の撤廃は地主層の反対で難航したが，マンチェスターの実業家コブデンやブライトが反穀物法同盟を結成して運動をつづけ，１８４６年には穀物法の撤廃を実現させた。
+                    自由貿易の障害になっていた航海法も廃止された（１８４９）。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-B-3-17-2-9">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アイルランドの
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １８４０年代の「ジャガイモ飢饉」では
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    数十万人が死亡し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大量の移民が海をこえた
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アイルランドの１８４０年代の「ジャガイモ飢饉」では数十万人が死亡し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アイルランドの１８４０年代の「ジャガイモ飢饉」では大量の移民が海をこえた
+                </extraction_text>
+            </extraction_text_set>
+            <title>一体化する世界-産業資本主義の発展と帝国主義-欧米秩序の再編-大英帝国のアキレス腱</title>
+            <text>
+                <![CDATA[
+                    １６世紀にアイルランドの北部アルスター地方に植民して以来，イギリスはアイルランドを植民地として支配し収奪した。
+                    アングロ＝サクソン系でプロテスタントのイギリスと，ケルト系でカトリックのアイルランドという民族や宗教・文化の対立が，支配の強化と，それに対する自治や独立の要求運動にからんだ。
+                    アイルランド問題の解決は大英帝国にとって難問となり，２１世紀にいたっても北アイルランド問題は解決していない。
+                    ピューリタン革命時のクロムウェルによる征服と土地の没収以降，土地の８０％以上がイギリス人不在地主に占有され，小作人となったアイルランド農民は，貧困と差別のなかでジャガイモを常食とする苦しい生活にあえいだ。
+                    １８０１年にイギリスに併合された（連合王国の成立）のち，オコンネルらの運動によって宗教差別は緩和されたが，経済支配はさらに強化された。
+                    「ジャガイモ飢饉」では数十万人が死亡し，大量の移民が海をこえたため，８０年代までにじつに３５０万人もの人口が減少した。
+                    しかし，１９世紀末からアイルランド国民党による自治獲得運動が強まり，土地の返還要求もくりかえされた。
+                    １９０５年にはシン＝フェイン党が結成され，第一次世界大戦中の１９１６年には，独立を求めてダブリンで武装蜂起がおこされた。
+                    結局，イギリスはプロテスタントの多いアルスター地方は譲らず，中南部のみに自治権を認め，１９２２年にアイルランド自由国が成立した。
+                    これがのちにエール（アイルランド共和国）となるが，イギリス領として残った北アイルランド問題は積み残されてしまった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-2-5-2-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １１世紀から
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    三圃制
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    犂
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    水車
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が普及した。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １１世紀から西ヨーロッパは三圃制などが普及した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    １１世紀から西ヨーロッパは犂などが普及した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    １１世紀から西ヨーロッパは水車などが普及した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>ユーラシア諸地域の交流と再編-ヨーロッパ世界の形成と変動-西ヨーロッパ世界の成立-荘園のしくみと農民のくらし</title>
+            <text>
+                <![CDATA[
+                    この時代，西ヨーロッパでは自給自足が基本であり，人口の９０％以上が農民であった。
+                    彼らは，領主の土地である荘園のなかで生活していた。
+                    荘園には領主の城や教会，住民の村落が中心にあり，周囲に領主の直営地と農民の保有地があって，外側には森や家畜を放牧する牧草地が広がっていた。
+                    荘園の住民のなかには職人もいたが，大部分は自分たちの保有する土地で農業をいとなんだ。
+                    彼らには領主の直営地をたがやす（賦役）義務があり，また収穫の一部を領主におさめていた（貢納）。
+                    さらに農民には結婚税や死亡税，水車やパンを焼くかまどの利用税をおさめる義務もあった。
+                    このころの農民には移住したり，転職したりする自由がないので，農奴とよばれる。
+                    １１世紀から１３世紀にかけて，西ヨーロッパは温暖になり，農業技術も発展した。
+                    農地を３分割して順番に利用する三圃制や，牛馬にひかせる大型の犂や斧，鎌などの鉄製農具，水車などが普及した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-2-5-3-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産力が上昇して
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    人口も増加し
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは農業生産力が上昇して
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパでは人口も増加し
+                </extraction_text>
+            </extraction_text_set>
+            <title>ユーラシア諸地域の交流と再編-ヨーロッパ世界の形成と変動-ヨーロッパ世界の変動-十字軍</title>
+            <text>
+                <![CDATA[
+                    １１世紀にセルジューク朝がアナトリアに進出すると，ビザンツ皇帝はローマ教皇に救援を求めた。
+                    東西教会の統一をねらう教皇ウルバヌス２世は１０９５年，フランスのクレルモンに各地の聖職者代表を集めて公会議をひらき，聖地イェルサレムへの軍隊の派遣を宣言した。
+                    西ヨーロッパの王や騎士たちは十字の印をつけて従軍した。
+                    これが十字軍である。
+                    第１回の十字軍は聖地を占領し，その周辺にイェルサレム王国をたてた。
+                    １０世紀ごろから，西ヨーロッパでは農業生産力が上昇して人口も増加し，東ヨーロッパへの遠征や，オランダの干拓など，新しい土地を求める動きがみられた。
+                    十字軍もこうした外部への進出の一例であった。
+                    十字軍の遠征は１３世紀後半までに７回行われたが，イスラーム諸王朝の反撃のまえに，聖地や領土の獲得は失敗に終わった。
+                    ２世紀近い十字軍の活動で，遠征に参加した各地の有力領主は没落し，教皇の影響力もおとろえた。
+                    いっぽう，十字軍の輸送を担当した北イタリアの諸都市は，東方貿易で大きな富を獲得した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-7-1-6">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明のなかばから
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    米作の中心は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    中流域に広がり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシなど，おもにアメリカ大陸からもたらされた作物の栽培がはじまった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明のなかばから米作の中心は長江中流域に広がり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明のなかばから米作の中心は「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    トウモロコシなど，おもにアメリカ大陸からもたらされた作物の栽培がはじまった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-アジア諸地域世界の繁栄と成熟-明清帝国の繁栄-明清時代の経済発展</title>
+            <text>
+                <![CDATA[
+                    中国の経済は，明のなかばからさらに拡大した。
+                    米作の中心は，長江下流域から中流域に広がり，「湖広（湖北・湖南）熟すれば天下足る」といわれた。
+                    茶や綿花の栽培が全国に広まり，１７世紀ごろには，タバコ，ジャガイモ，サツマイモ，落花生，トウモロコシなど，おもにアメリカ大陸からもたらされた作物の栽培がはじまった。
+                    これらの商品作物の栽培に加え，農家の副業として絹織物や綿織物の家内工業もさかんになり，農村にも貨幣経済がゆきわたった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-8-5-5">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アメリカ大陸は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ジャガイモ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    などが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    世界各地に伝えられることになった。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸はトウモロコシなどが世界各地に伝えられることになった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    アメリカ大陸はジャガイモなどが世界各地に伝えられることになった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパの拡大と大西洋世界-東方の大国-ＡＲＥＡラテンアメリカ</title>
+            <text>
+                <![CDATA[
+                    歴史的環境南北にのびるアメリカ大陸は，太平洋側にはロッキー山脈やアンデス山脈の高山地帯がつらなり，中央には広大な平原が広がっている。
+                    また，高原，砂漠，そしてアマゾン川流域の湿地帯などの地形がみられる。
+                    この大陸には，いまから数万年前にユーラシアからモンゴロイド系の人々がベーリング海峡を渡って移りすみ，各地の自然環境に適応しながら定着して，のちにインディオ（インディアン）とよばれるアメリカ大陸の先住民となった。
+                    彼らは，狩猟生活ののち，前２０００年紀にはトウモロコシ栽培を中心とする農耕生活にはいった。
+                    こうして，前１０００年前後には，メキシコ湾岸や中央アンデス山地などに独自の農耕文明が形成された。
+                    そこでは，トウモロコシのほかにもジャガイモ，トマト，カボチャ，カカオ豆などが栽培され，のちに世界各地に伝えられることになった。
+                    インディオの文明中央アメリカでは，４世紀ごろからユカタン半島においてマヤ文明が栄えた。
+                    人々はピラミッド型の神殿をたて，暦をつくり，象形文字を使用して樹皮紙に記録した。
+                    １４世紀になると，メキシコ高原でもいくつかの文明が栄えたのち，アステカ族がテノチティトラン（現在のメキシコシティ）を中心にしてアステカ文明をつくった。
+                    アステカ族は，メキシコ中央部の太平洋岸からメキシコ湾岸までの広大な地域を征服し，征服地に貢納を義務づけた。
+                    また，彼らは青銅器を使用し，太陽神を祭る神殿を建設し，暦をもち，絵文字を用いて貢納の記録をのこした。
+                    ペルーのアンデス山地でも高度な文明が生まれていたが，１４世紀なかば，ペルー南部高原のインカ族がクスコを都として勢力を強め，１５世紀には多くの国を統一して大帝国となった。
+                    皇帝は太陽神の子として絶対的な力をもち，政治，宗教の権力をにぎって神権政治を行った。
+                    またこの帝国は，多くの人々を動員して巨大な神殿や灌漑施設をつくり各地に道路を建設した。
+                    人々は文字をもたなかったが，キープ（縄の結び目）を用いて数の記録をのこした。
+                    これらの社会は，皇帝を中心にして神官，貴族（戦士），農民，そして奴隷で構成された階級社会であったと考えられている。
+                    アステカとインカの各文明では，金，銀，銅を用いた金属器が使用されていたが，鉄器はまだ使用されておらず，牛や馬なども知らなかった。
+                    そのため，スペインはこれらの文明をヨーロッパにくらべて劣るものとして，過酷な略奪と征服の対象とした。
+                    こうして，アステカ帝国とインカ帝国はあいついで滅ぼされた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-9-1-2">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスで
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    第２次囲いこみによって
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地を追われた
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農民
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    都市に移って
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    労働者になった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスで第２次囲いこみによって土地を追われた農民
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農民が都市に移って労働者になった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農民が労働者になった。
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパ・アメリカ諸国の発展-産業革命-産業革命とイギリス社会</title>
+            <text>
+                <![CDATA[
+                    イギリスで産業革命がおきたのは，１７世紀の革命のあと経済活動の規制が少なくなり，資本主義的な生産活動が進展したからであった。
+                    地主たちは人手が少なくてすむ効率的な農業をいとなみ（農業革命），第２次囲いこみによって土地を追われた農民が都市に移って労働者になった。
+                    また，資本家が設備や原料を用意し，労働者をやとって生産活動をするしくみのなかでは，利益をみこんで事業をはじめたり拡大することも容易であった。
+                    海外貿易の利益は，資本となって綿工業の拡大をたすけた。
+                    アフリカとアメリカを結ぶ三角貿易は，綿工業の発展でさらに拡大した。
+                    カリブ海域や，アメリカ植民地の原綿生産には黒人奴隷が使われたので，イギリスの原綿輸入がふえると，奴隷の需要も増大し，イギリスの奴隷貿易はいっそう拡大した。
+                    綿布が最初に輸出されたのは，奴隷の供給地である西アフリカであった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-9-1-7">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ヨーロッパの人口は倍近くまで増加したが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    インカの
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ジャガイモの普及によって
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    食料事情が改善された
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    ヨーロッパの人口は倍近くまで増加したがインカのジャガイモの普及によって食料事情が改善された
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパ・アメリカ諸国の発展-産業革命-歴史の窓ヨーロッパを救ったインカのジャガイモ</title>
+            <text>
+                <![CDATA[
+                    中央アメリカからアンデス山地にかけて栄えた古代アメリカ文明を基礎でささえたのは，ゆたかな作物と農業水準の高さであった。
+                    そして，アメリカ大陸原産の数多くの作物がヨーロッパに伝わり，さらに世界に広まった。
+                    なかでもインカのジャガイモはヨーロッパで，やせた土地でも簡単に，大量に収穫できるために，主食の一つとなった。
+                    １８世紀後半から１９世紀前半にかけてヨーロッパの人口は倍近くまで増加したが，ジャガイモの普及によって，食料事情が改善されたことも少なからず影響している。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="T-WH-S-3-9-4-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    産業革命で力をつけた産業資本家
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    地主の利益を守る
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    穀物法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を廃止させて
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    自由貿易を実現し
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスでは産業革命で力をつけた産業資本家は穀物法を廃止させて
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    地主の利益を守る穀物法
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスでは自由貿易を実現し
+                </extraction_text>
+            </extraction_text_set>
+            <title>諸地域世界の結合と変容-ヨーロッパ・アメリカ諸国の発展-国民国家の建設～１-西ヨーロッパの自由主義</title>
+            <text>
+                <![CDATA[
+                    フランスでは，復活したブルボン王朝は立憲王政を採用し，ナポレオンの時代の法律や制度をそのまま利用した。
+                    しかし，制限選挙制のもとで，１８２０年代に旧貴族や教会を優遇したために，選挙権のない自由主義的な商工業者や都市民衆の不満が高まった。
+                    このとき，政府が強硬な態度をとったために，１８３０年７月にパリで革命がおき，ブルボン王朝はたおれた。
+                    富裕な自由主義者たちは民衆運動の激化をおそれて，王族のルイ・フィリップを王にした（七月革命）。
+                    しかし，革命の動きはヨーロッパ各地に波及した。
+                    イタリア半島では，オーストリア支配に反対してイタリア人の統一国家を建設しようとする動きがさかんになり，ロシア支配下のポーランドでも独立運動がおきた。
+                    これらすべては鎮圧されたが，オランダの支配のもとにあったベルギーは独立した。
+                    イギリスでは，選挙権はおおむね地主だけに与えられていた。
+                    産業革命で力をつけた産業資本家など都市の中産層は，選挙権を要求する運動を行い，１８３２年の第一次選挙法改正で選挙権を獲得した。
+                    自由主義をとなえた彼らは，国家が経済や社会生活に介入することに反対し，議会では地主たちの利益を代表する保守党と対立していた。
+                    自由党を結成した自由主義者は，１８４０年代には地主の利益を守る穀物法，さらに航海法を廃止させて自由貿易を実現し，１９世紀後半にはグラッドストンの指導のもとでイギリスの政治を支配した。
+                    いっぽう，保守党のディズレーリはアフリカやアジアへの進出を積極的にすすめた。
+                    １９世紀後半はイギリスの繁栄の時代であり，この時代はヴィクトリア女王の名をかりてヴィクトリア時代とよばれる。
+                    いっぽう，工業の発展にともなって増加していた労働者の利害は地主や産業資本家の利害とことなっていたので，彼らも参政権を要求したが，みとめられなかった。
+                    このため労働者層は普通選挙を求める人民憲章をつくり，議会に請願を行うチャーティスト運動を展開した。
+                    自由主義体制のもとで，彼らの利益は無視され，不安定な労働条件，貧困と不衛生になやむ彼らの生活は悲惨であった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-1515">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    北宋のとき
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ベトナム
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    から伝来した，ひでりに強い
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    北宋のときベトナムから伝来した，ひでりに強い
+                </extraction_text>
+            </extraction_text_set>
+            <title>占城稲</title>
+            <text>
+                <![CDATA[
+                    北宋のとき占城（ベトナムのチヤンパー）から伝来した，ひでりに強い早熟の稲。長江下流域の水田地帯に普及した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2294">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    11世紀頃から
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    普及し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産力を高めた。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    11世紀頃から普及し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農業生産力を高めた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>三圃制</title>
+            <text>
+                <![CDATA[
+                    耕地を3分し，春耕地・秋耕地・休耕地とし，3年で一巡する農法。10～11世紀頃から旧来のニ圃制に代わって普及し，農業生産力を高めた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2297">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    12世紀前後から普及し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産力を高めた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    12世紀前後から普及し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農業生産力を高めた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>水車</title>
+            <text>
+                <![CDATA[
+                    12世紀前後から普及し，農業生産力を高めた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2299">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパの人口増加などが原因となり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    進められた大規模な耕地開拓運動。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東方植民などが代表的。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパの人口増加などが原因となり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    進められた大規模な耕地開拓運動。東方植民などが代表的。
+                </extraction_text>
+            </extraction_text_set>
+            <title>大開墾運動</title>
+            <text>
+                <![CDATA[
+                    西ヨーロッパの人口増加などが原因となり，12～13世紀頃に進められた大規模な耕地開拓運動。オランダの干拓，アルプス高地の開墾，ドイツ諸侯らによる東方植民などが代表的。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-2751">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明代，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江中流域
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    で米の生産が下流
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    をしのぎ
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    明代，長江中流域で米の生産が下流をしのぎ
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明代，この言葉が流行した。
+                </extraction_text>
+            </extraction_text_set>
+            <title>「湖広熟すれば天下足る」</title>
+            <text>
+                <![CDATA[
+                    湖広は湖南・湖北両省の総称。明代，長江中流域の同地方で米の生産が下流の江蘇・浙江をしのぎ，宋代の「江浙熟すれば天下足る」に代わり，この言葉が流行した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3824">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業革命による
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    労働力の発生
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    農業革命による労働力の発生
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>イギリス産業革命</title>
+            <text>
+                <![CDATA[
+                    18世紀後半から始まった世界で最初の産業革命。その原因としては，（1）16世紀以降の重商主義政策やマニュファクチュアの発達による資本の蓄積，（2）植民地戦争の勝利による広大な市場の確保，（3）18世紀の農業革命による安価な労働力の発生，（4）科学・技術水準の高さ，（5）鉄・石炭などの豊富な資源，（6）市民革命による経済活動の大幅な自由などの条件が整ったこと，などがあげられる。イギリスの産業革命は，木綿工業の技術革新から始まり，蒸気機関が動力源に用いられ，機械工業・製鉄業・石炭業に広がりをみせた。19世紀に入ると交通運輸部門の発明・改良が促され，イギリスは先進工業国として，「世界の工場」の地位を確立した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3825">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    18世紀のイギリスでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    新しい輪作の農法が普及し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    大規模な囲い込み（第2次）が進み
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    資本主義的農業経営が確立された。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地を失った多数の農民
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    18世紀のイギリスでは新しい輪作の農法が普及し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    18世紀のイギリスでは大規模な囲い込み（第2次）が進み
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    18世紀のイギリスでは資本主義的農業経営が確立された。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    土地を失った多数の農民
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>農業革命</title>
+            <text>
+                <![CDATA[
+                    18世紀のイギリスで生じた農業技術や農業経営の変革。18世紀のイギリスでは穀物増産を目的とした新しい輪作の農法が普及し，大規模な囲い込み（第2次）が進み，農業資本家が地主から土地を借りて農業労働者を雇う，資本主義的農業経営が確立された。その結果，土地を失った多数の農民が工場労働者となって産業革命が促進されることとなった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-3827">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスで
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    資本主義的大農場経営を成立させた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地を失った
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農民
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    賃金労働者になることによって，産業革命が促進された。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    資本主義的大農場経営を成立させた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    土地を失った農民
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    農民が賃金労働者になることによって，産業革命が促進された。
+                </extraction_text>
+            </extraction_text_set>
+            <title>囲い込み,エンクロージャー,第2次囲い込み</title>
+            <text>
+                <![CDATA[
+                    イギリスで行われた耕作地や森林の周囲を柵・生垣などで囲む行為。第1次が牧羊のための非合法的な囲い込みだったのに対し，第2次は食料増産を目的に，議会・政府が奨励する合法運動として大規模に行われ，農業面での資本主義的大農場経営を成立させた。この農業革命による食料生産の増大が産業革命期の人口増をささえ，土地を失った農民が賃金労働者になることによって，産業革命が促進された。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-4179">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    制定された地主保護法
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    産業資本家らが
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    反対運動を展開し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    廃止された。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    産業資本家らが反対運動を展開し廃止された。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    制定された地主保護法
+                </extraction_text>
+            </extraction_text_set>
+            <title>穀物法</title>
+            <text>
+                <![CDATA[
+                    1815年に制定された地主保護法（イギリスでは17世紀末以降，同じような「穀物法」の制定・改定がくりかえされつづけてきた）。ナポレオン戦争終結後，大陸諸国から安価な穀物が流入して，国産の穀物価格が下落するのを防止するため，外国産穀物に高関税を課して輸入を制限した。1830年代以降，産業資本家らが激しい反対運動を展開し，46年に廃止された。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-4183">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリス
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    自由貿易への流れを決定的にした。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスの自由貿易への流れを決定的にした。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>穀物法廃止</title>
+            <text>
+                <![CDATA[
+                    ピール保守党内間により実現された。イギリス産業資本家の，地主に対する勝利の表れであり，自由貿易への流れを決定的にした。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-4184">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスの自由貿易体制が確立した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスの自由貿易体制が確立した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>航海法廃止</title>
+            <text>
+                <![CDATA[
+                    1651年以降制定された航海法が廃止され，イギリスの自由貿易体制が確立した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-4326">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    1840年代半ば，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    アイルランドで
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    多数
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    のアイルランド人が餓死した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    北アメリカへの移民の流れが加速された。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                  　1840年代半ば，アイルランドで多数のアイルランド人が餓死した
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    1840年代半ば，北アメリカへの移民の流れが加速された。
+                </extraction_text>
+            </extraction_text_set>
+            <title>ジャガイモ飢饉</title>
+            <text>
+                <![CDATA[
+                    1840年代半ば，アイルランドでジャガイモの病気を原因とする凶作で多数（100万人以上）のアイルランド人が餓死したこと。この結果，イギリスからの自治運動が高まり，他方では北アメリカへの移民の流れが加速された。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="YamakawaWorldHistoryGlossary-4450">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    1840年代後半から50年代には，ジャガイモ飢饉を原因とするアイルランドからの移民
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    1840年代後半から50年代には，ジャガイモ飢饉を原因とするアイルランドからの移民
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>移民,アメリカ移民</title>
+            <text>
+                <![CDATA[
+                    北アメリカへの移民は，1880年代までは北欧・西欧出身の旧移民で占められた。とくに1840年代後半から50年代には，ジャガイモ飢饉を原因とするアイルランドからの移民と，48年革命に失敗したドイツからの政治的亡命者と農民の移民が増加した。1880年代以降になると，東欧・南欧出身の移民が急増し，新移民と呼ばれた。アジア系の移民の中では1840年代以降に，中国系の移民がクーリーとして大陸横断鉄道敷設の労働力とされた。しかし，人種差別や移民制限の対象ともされ，その数はヨーロッパ出身者より少なかった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-03-03-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    宋も
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ひでりに強い
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    占城稲が導入され
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江下流地域では
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    集約的な稲作がおこなわれる
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    宋もひでりに強い占城稲が導入され
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    長江下流地域では集約的な稲作がおこなわれる
+                </extraction_text>
+            </extraction_text_set>
+            <title>東アジア諸地域の自立化-宋代の社会</title>
+            <text>
+                <![CDATA[
+                    黄河と大運河の接点にある開封に都をおいたのは朱全忠の後梁が最初であるが，宋も開封を都に定めた。
+                    唐の長安が王朝の威光を内外に示すため整然たる計画にもとづいてつくられた壮大な都城であったのに対し，開封は古くからの城壁都市をもとに市場・繁華街がひろがってできた都市であった。
+                    宋代の都市の繁栄船の通行の便をはかったアーチ形の虹橋の上には多くの露店が出て，客でにぎわっている。橋の上をゆきかう人びともさまざまである。北宋末張択端作「清明上河図」より。
+                    開封の利点は，水路をつうじて中国の東西南北を結びつける商業網の中枢としての位置にあったといえる。
+                    唐末以降，商業に対する規制がゆるみ，都市のなかで商業活動が活発におこなわれただけでなく，城壁の外や交通の要地に草市・鎮などとよばれる商業の中心地が発生した。
+                    全国から税を集めて巨額の軍事支出をおこなう宋の中央集権的な財政運営も，全国的な物資の流通をさかんにした。
+                    商品流通はますます大規模になり，行（商人）・作（手工業者）などの同業組合もうまれ，塩・茶・米・絹などを扱う大商人が活躍した。
+                    貨幣経済も発展し，銅銭のほか金銀も地金のままもちいられ，手形として発生した交子・会子が紙幣として使われるようになった。
+                    送金手形は唐代にはじまり，飛銭とよばれた。
+                    貨幣経済の進展のなかで富裕になった人びとは土地を買い集めて地主となり，収穫物の半分程度にあたる小作料をとって佃戸に耕作させることが普通であった。
+                    地主と佃戸との関係は，対等な土地の貸借関係から主人と奴隷のような隷属的関係まで，さまざまであった。
+                    宋の南渡以来，江南の開発がすすみ，中国経済の中心は長安を中心とする西北から，東南の江蘇・浙江・福建などの地域へと移動した。
+                    長江下流地域では囲田などが造成され，集約的な稲作がおこなわれるようになり，「蘇湖（江浙）熟すれば天下足る」の諺がうまれた。
+                    湿地帯の土地を堤防でかこみ，干拓してつくられた田をいう。
+                    あらたな耕地にはひでりに強い早稲種の占城稲が導入され，収穫の安定化がはかられた。
+                    また陶磁器や茶・絹など特産品の集中生産が各地でおこり，それらを結びつける海運・河運がめざましく発達した。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-06-01-0">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産が増大し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    人口が急増する
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは農業生産が増大し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは人口が急増する
+                </extraction_text>
+            </extraction_text_set>
+            <title>ヨーロッパ世界の形成と発展-西ヨーロッパ世界の成立-</title>
+            <text>
+                <![CDATA[
+                    第６章では，西ローマ帝国が滅びた後，ヨーロッパが中世とよばれる時代にはいってから千年ほどの時代を扱う。
+                    西ローマ帝国滅亡とゲルマン人の大移動・建国の後，７世紀のイスラーム勢力の西進をきっかけにして地中海世界はまとまりを失い，やがて東ヨーロッパ世界・西ヨーロッパ世界・イスラーム世界の三つの歴史的世界に分裂した。
+                    東ヨーロッパではビザンツ帝国（東ローマ帝国）がローマ帝国の伝統を引きつぎ，皇帝はギリシア正教会を服従させて中央集権的一元支配を維持した。
+                    スラヴ系諸民族もギリシア正教とビザンツ文化の影響下で自立・建国し，ビザンツ帝国とともにギリシア＝スラヴ的世界を形成した。
+                    一方，西ヨーロッパではローマ＝カトリック教会がフランク王国と手を結び，ギリシア正教会とビザンツ帝国に対抗した。
+                    カールの戴冠は，ローマ＝ゲルマン的西欧世界の独立を象徴するできごとであった。
+                    また民族大移動後の長い混乱期は，封建的主従関係と荘園という独自のしくみをもつ封建社会をうみだした。
+                    こうして出現したのが西ヨーロッパ中世世界である。
+                    封建社会は１１～１３世紀に最盛期をむかえた。
+                    農業生産が増大し人口が急増すると，西ヨーロッパは拡大を開始する。
+                    その拡大のエネルギーを爆発的に噴出させたのが，十字軍である。
+                    十字軍はけっきょく失敗におわったが，これをきっかけに東方貿易が拡大して都市と商業はふたたび繁栄をむかえた。
+                    貨幣経済が浸透すると農民の地位は向上し，荘園にもとづく経済体制は崩壊へと向かった。
+                    また教皇権が衰退するのと逆に王権は強まり，そのなかから中央集権をおしすすめた各国は，近代的国民国家形成に向けて一歩をふみ出すのである。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-06-03-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    西ヨーロッパ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    三圃制の普及
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    犂
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    水車
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の改良
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農業生産は増大し
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    人口も飛躍的にふえた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    それにともない
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    内外に向けて拡大しはじめた。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    東方植民
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    などがそれである。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは三圃制の普及
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは犂の改良
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは水車の改良
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは農業生産は増大し
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパは人口も飛躍的にふえた。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    西ヨーロッパはそれにともない内外に向けて拡大しはじめた。東方植民などがそれである。
+                </extraction_text>
+            </extraction_text_set>
+            <title>西ヨーロッパ中世世界の変容-十字軍➋➌とその影響</title>
+            <text>
+                <![CDATA[
+                    西ヨーロッパの封建社会は西暦１０００年ころから，３００年ほど続く安定と成長の時代にはいった。
+                    この時代はおおむね気候が温和で，三圃制の普及や犂・水車の改良など農業技術の進歩により農業生産は増大し，人口も飛躍的にふえた。
+                    耕地を三つにわけ，それぞれを春耕地・秋耕地・休耕地として年ごとに順次利用してゆき，３年で一巡する土地利用法。
+                    中世の農耕アルプス以北のしめって重たい土壌を深く耕すため，１１～１２世紀ころから重量有輪犂を牛馬に引かせる農耕法が普及し，農業生産が増大した。『フランドルの時禱書』より。
+                    それにともない西ヨーロッパ世界は，しだいに内外に向けて拡大しはじめた。
+                    修道院を中心にした開墾運動，オランダの干拓，エルベ川以東への東方植民，イベリア半島の国土回復運動，巡礼の流行などがそれである。
+                    なかでも大規模な西ヨーロッパの拡大が，十字軍であった。
+                    十字軍によるイェルサレム占領第１回十字軍は，１０９９年聖地を占領した。殉教の物語をあらわしたステンドグラスのある聖堂が背景にみえる。
+                    １１世紀に東地中海沿岸に進出し，聖地イェルサレムを支配下においたセルジューク朝は，ビザンツ帝国をもおびやかしたので，ビザンツ皇帝は教皇に救援を要請した。
+                    教皇ウルバヌス２世は１０９５年クレルモン宗教会議を招集し，聖地回復の聖戦をおこすことを提唱した。
+                    こうして翌９６年諸侯や騎士からなる第１回十字軍が出発し，１０９９年イェルサレムを占領してイェルサレム王国をたてた。
+                    十字軍によるイェルサレム占領第１回十字軍は，１０９９年聖地を占領した。殉教の物語をあらわしたステンドグラスのある聖堂が背景にみえる。
+                    その後，勢力をもりかえしたイスラーム勢力に対し第２回十字軍がおこされ，ついで，アイユーブ朝のサラディンにふたたびうばわれた聖地を回復するために，ドイツ皇帝・フランス国王・イギリス国王が参加して第３回十字軍がおこされたが，いずれも成功しなかった。
+                    十字軍の遠征路
+                    つづく第４回十字軍はヴェネツィア商人の要求にせまられて聖地回復の目的をすて，その商業上のライバルであるコンスタンティノープルを占領してラテン帝国をたてた。
+                    十字軍の遠征路
+                    その後も第７回まで十字軍はおこされたが，聖地回復の目的はついに達成されなかった。
+                    十字軍の遠征路
+                    この間，聖地への巡礼の保護を目的として，ドイツ騎士団などの宗教騎士団が各地で活躍した。
+                    十字軍の遠征路
+                    また少年十字軍のように熱狂的動機からおこされ，悲劇的結末におわった運動もあった。
+                    十字軍は民衆の宗教的情熱によってだけではなく，参加者それぞれの動機が複雑にからみあっておこされたものである。
+                    教皇はこれを機会に東西両教会を統一しようとくわだて，諸侯は領地や戦利品をのぞみ，イタリア諸都市は商業的利益を拡大しようとした。
+                    十字軍はけっきょく失敗したが，その後の西ヨーロッパ世界に重大な影響をあたえた。
+                    あいつぐ遠征の失敗により教皇の権威はゆらぎはじめ，逆に遠征を指揮した国王の権威は高まった。
+                    また十字軍の輸送によりイタリアの諸都市は大いに繁栄し，地中海貿易による東方との交易がふたたびさかんになりだした。
+                    これにより東西間で人とものの交流が活発になると，東方の先進文明圏であるビザンツ帝国やイスラームから文物が流入し，西ヨーロッパ人の視野は拡大した。
+                    こうして十字軍をきっかけに，西ヨーロッパ中世世界は大きくさまがわりすることになった。
+                    十字軍の遠征路
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-07-02-4">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    トウモロコシ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ジャガイモ
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    などのアメリカ大陸作物も世界にひろまり
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    トウモロコシなどのアメリカ大陸作物も世界にひろまり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    ジャガイモなどのアメリカ大陸作物も世界にひろまり
+                </extraction_text>
+            </extraction_text_set>
+            <title>海の道の発展-世界の一体化と銀</title>
+            <text>
+                <![CDATA[
+                    １６世紀にはいると，諸大陸を結ぶ海上交易の発展により，各地の海域世界はたがいに密接に結びつくようになったが，その活発な遠距離商業をささえたのは，銀の増産であった。
+                    アメリカ大陸の征服をすすめたスペインによってラテンアメリカの銀山が開発され，大量の銀がヨーロッパやアジアに流れこんだほか，日本でも銀山の開発がすすんだ。
+                    スペイン銀貨（上）と丁銀（下）スペインがアメリカ大陸で鋳造したスペイン銀貨は，アジア内部の交易にももちいられる国際的通貨であった。１６世紀後半から１７世紀初めにかけて，日本の銀も丁銀などの銀塊の形で輸出され，アジアの交易に重要な役割をはたした。
+                    東南アジアのコショウ・香料や中国の生糸，インドの綿布などアジアの特産品が銀によって買い付けられ，その販路は急速に拡大した。
+                    スペイン銀貨（上）と丁銀（下）スペインがアメリカ大陸で鋳造したスペイン銀貨は，アジア内部の交易にももちいられる国際的通貨であった。１６世紀後半から１７世紀初めにかけて，日本の銀も丁銀などの銀塊の形で輸出され，アジアの交易に重要な役割をはたした。
+                    アジアに進出したヨーロッパ商人と現地の政権や商人とは，貿易の利益をめぐってときには協力し，ときには抗争する複雑な関係を結んだ。
+                    東アジアの海域でも日本人・中国人の密貿易集団（倭寇）やポルトガル・オランダなどのヨーロッパ勢力の活動が活発化し，明の海禁政策はくずれていった。
+                    国際商業の発展にともない，火縄銃や大砲などヨーロッパの新式火器がアジア各地にひろまり，新興政権の成立をささえた。
+                    トウモロコシ・サツマイモ・ジャガイモ・トマトなどのアメリカ大陸作物も世界にひろまり，人びとの生活に大きな影響をあたえた。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-08-01-5">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江下流域では
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    家内制手工業がさかんになり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    原料となる
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    綿花
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    桑
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    の栽培が普及した。
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    明末には
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    長江中流域
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が新たな穀倉地帯となり
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    「湖広熟すれば天下足る」と称せられた。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    長江下流域では家内制手工業がさかんになり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    原料となる綿花の栽培が普及した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    原料となる桑の栽培が普及した。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明末には長江中流域が新たな穀倉地帯となり
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    明末には「湖広熟すれば天下足る」と称せられた。
+                </extraction_text>
+            </extraction_text_set>
+            <title>アジア諸地域の繁栄-東アジア・東南アジア世界の動向-明後期の社会と文化</title>
+            <text>
+                <![CDATA[
+                    国際商業の活発化は，中国国内の商工業の発展をうながした。
+                    長江下流域では綿織物や生糸に代表される家内制手工業がさかんになり，原料となる綿花や養蚕に必要な桑の栽培が普及した。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    このため，明末には長江中流域の湖広（現在の湖北・湖南省）が新たな穀倉地帯となり，「湖広熟すれば天下足る」と称せられた。
+                    また景徳鎮に代表される陶磁器も生産をのばした。
+                    生糸や陶磁器は，日本やアメリカ大陸，ヨーロッパに輸出される代表的な国際商品であった。
+                    商業・手工業の発展にともない，山西商人や徽州（新安）商人など明の政府と結びついた特権商人が全国的に活動して巨大な富をきずいた。
+                    大きな都市には，同郷出身者や同業者の互助や親睦をはかるための会館や公所もつくられた。
+                    税の納入も銀でおこなわれるようになり，１６世紀には各種の税や徭役を銀に一本化して納入する一条鞭法の改革が実施された。
+                    貨幣経済の発展とともに都市には商人や郷紳など富裕な人びとが集まり，庭園の建設や骨董の収集など文化生活を楽しんだ。
+                    明を代表する画家・書家の董其昌のように，高級官僚を経験しながら芸術家として名声をえた文化人も多かった。
+                    木版印刷による書物の出版も急増し，科挙の参考書や小説，商業・技術関係の実用書などが多数出版されて書物の購買層はひろがった。
+                    『三国志演義』『水滸伝』『西遊記』『金瓶梅』などの小説が多くの読者を獲得し，庶民向けの講談や劇も都市のさかり場や農村でさかんに演じられた。
+                    儒学のなかでは，１６世紀初めに王守仁（王陽明）が，無学な庶民や子供でもほんらいその心のなかに真正の道徳をもっている（心即理）と主張し，外面的な知識や修養にたよる当時の朱子学の傾向を批判した。
+                    ありのままの善良な心を発揮し（致良知），その心のままに実践をおこなう（知行合一）ことを説いた陽明学は，学者のみならず庶民のあいだにもひろい支持をえた。
+                    明末文化の一つの特色は，科学技術への関心の高まりである。
+                    『本草綱目』（李時珍著），『農政全書』（徐光啓編），『天工開物』（宋応星著）などの科学技術書がつくられ，日本など東アジア諸国にも影響をあたえた。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    当時の科学技術の発展には，１６世紀なかば以降東アジアに来航したキリスト教宣教師の活動も重要な役割をはたした。
+                    日本でのキリスト教普及の基礎をきずいたイエズス会宣教師のフランシスコ＝ザビエルは，中国布教をめざしたが実現せず，その後マテオ＝リッチらが１６世紀末に中国にはいって布教をおこなった。
+                    糸くり『天工開物』にえがかれた糸車。足踏み式で車をまわし，繭から糸をまきとるようになっている。
+                    マテオ＝リッチ（左）徐光啓徐光啓はリッチに学び，西洋学術の導入につとめた。彼は『崇禎暦書』や『幾何原本』の作成にも参加している。
+                    キリスト教が庶民層にひろまった日本とことなり，中国では，ヨーロッパの自然科学や軍事技術に関心をもつ士大夫層がキリスト教をうけいれた。
+                    リッチが作製した世界地図の『坤輿万国全図』は，中国に新しい地理知識をひろめ，日本などにも伝えられた。
+                    西洋暦法による『崇禎暦書』や「ユークリッド幾何学」の翻訳である『幾何原本』なども刊行された。
+                    マテオ＝リッチ（左）徐光啓徐光啓はリッチに学び，西洋学術の導入につとめた。彼は『崇禎暦書』や『幾何原本』の作成にも参加している。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-11-01-1">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    イギリスでは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    土地を失った
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    農民
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    は
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    都市の工業労働者となった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスでは農民は都市の工業労働者となった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    イギリスでは土地を失った農民
+                </extraction_text>
+            </extraction_text_set>
+            <title>欧米における近代社会の成長-産業革命-世界最初の産業革命➊</title>
+            <text>
+                <![CDATA[
+                    イギリスでは近代初期から商工業が発達し，豊かな国内市場と有利な投資先を求める資本が用意されていた。
+                    また国家が重商主義政策をとり，１７世紀にオランダ，１８世紀にフランスを破って広大な海外市場を確保した。
+                    他方，市場向け生産をめざす農業が発達し，産業革命期に急増する都市人口をささえた。
+                    産業革命時代のイギリス
+                    大地主は中小農民の土地や村の共同地をあわせて大規模な農地をつくり（第２次囲い込み），すすんだ技術をもった農業資本家にこれを貸し出して経営させた（農業革命）。
+                    土地を失った農民は，農業労働者や都市の工業労働者となった。
+                    さらにイギリスは，石炭・鉄などの資源にめぐまれ，また１７世紀以来，自然科学と技術の進歩もめざましかった。
+                    このような条件がととのっていたイギリスでは，新しい生産技術が発明されれば，これを応用して工業生産の拡大に役立てることができ，世界最初の産業革命を経験することになった。
+                    産業革命時代のイギリス
+                    ただし，１８世紀末のイギリスにおける経済成長率は，まだそれほど高くはなかった。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-12-01-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    産業資本家
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    が参加した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    反穀物法同盟による運動の結果，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    穀物法が廃止された
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    自由貿易政策も実現した
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    地主階級の利益をまもるため，外国産穀物の輸入に高率の関税をかけて穀物価格を維持する法律。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    産業資本家が参加した反穀物法同盟による運動の結果、穀物法が廃止された
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    自由貿易政策も実現した
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                    地主階級の利益をまもるため，外国産穀物の輸入に高率の関税をかけて穀物価格を維持する法律。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                
+                </extraction_text>
+            </extraction_text_set>
+            <title>欧米における近代国民国家の発展-ウィーン体制-フランス七月革命とイギリスの諸改革</title>
+            <text>
+                <![CDATA[
+                    フランスでは，きびしい制限選挙制をとる立憲君主政のもとで，シャルル１０世が貴族・聖職者を重んじる反動的な政策をおこなった。
+                    王は１８３０年には，国民の不満をそらすため，オスマン帝国支配下のアルジェリアに遠征をおこない，議会を未招集のまま解散するなど圧政をしいた。
+                    このため，３０年７月，パリに革命がおこってシャルル１０世は追放され，自由主義者として知られるオルレアン家のルイ＝フィリップが王にむかえられて，七月王政が成立した。
+                    この七月革命は各地にひろがり，ベルギーはオランダから独立し，翌３１年立憲制の王国となった。
+                    民衆をみちびく自由の女神フランスのドラクロワの作品。１８３０年のフランス七月革命に題材をとり，女神は三色旗と銃を手にもっている。
+                    ポーランド・ドイツ・イタリアにおこった反乱は鎮圧されたが，西欧諸国はウィーン体制から距離をとり，ウィーン体制の重点は中欧におかれるようになった。
+                    他方，自由主義的性格を強めていたイギリスでは，１８２８年に審査法が廃止され，翌２９年にオコンネルらアイルランド人の運動の結果，カトリック教徒解放法が成立し，国教徒以外でも公職につけるようになった。
+                    また，選挙制度が産業革命後の社会の現実にあっていなかったため，選挙法改正を求める運動が激しくなると，ホイッグ党内閣は１８３２年に改革を実現した（第１回選挙法改正）。
+                    これにより選挙区が再編成され，選挙資格も拡大されて，産業資本家をはじめ，産業革命で豊かになった中流階級が政治的発言力を強めたが，地主階級はその後も長く政治指導力を保持した。
+                    有権者の激減してしまった選挙区（腐敗選挙区）が廃止となり，その分の議席が，従来は独立した選挙区として認められていなかった新興の商工業都市や，人口の多い州に配分された。
+                    より民主的な選挙制度を求める労働者は，３０年代後半から，男性普通選挙，議員の財産資格廃止など６カ条からなる人民憲章をかかげて政治運動（チャーティスト運動）をおこした。
+                    イギリスはこのころ，産業資本家に有利な自由貿易政策も実現したが，その画期とされるのは，コブデン・ブライトらが参加した反穀物法同盟による運動の結果，１８４６年に穀物法が廃止されたことである。
+                    地主階級の利益をまもるため，外国産穀物の輸入に高率の関税をかけて穀物価格を維持する法律。
+                    さらに，４９年には航海法も廃止された。
+                    また，１８３４年には東インド会社の中国貿易独占権の廃止が実施された。
+                ]]>
+            </text>
+        </doc>
+        <doc docno="Y-JH-12-02-3">
+            <query_term_id_set_set>
+                <query_term_id_set id="1">1,3,9</query_term_id_set>
+            </query_term_id_set_set>
+            <doc_index_set>
+                <doc_index gs_sentence_id="" start="" length="">
+                    １９世紀のなかば，
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    ジャガイモ飢饉
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    を経験したアイルランドからは
+                </doc_index>
+                <doc_index gs_sentence_id="" start="" length="">
+                    人びとが移民としてアメリカにわたった。
+                </doc_index>
+            </doc_index_set>
+            <extraction_text_set>
+                <!--nature="A(Abstract) or NE(NearlyEqual) or D(Detail)"-->
+                <extraction_text gs_sentence_id="" nature="">
+                    １９世紀のなかば，ジャガイモ飢饉を経験したアイルランドからは人びとが移民としてアメリカにわたった。
+                </extraction_text>
+                <extraction_text gs_sentence_id="" nature="">
+                </extraction_text>
+            </extraction_text_set>
+            <title>ヨーロッパの再編-イギリスのヴィクトリア時代</title>
+            <text>
+                <![CDATA[
+                    １９世紀のなかば，イギリスはヴィクトリア女王のもとで繁栄の絶頂にあった。
+                    １８５１年には，のべ６００万人以上が入場したロンドン万国博覧会がひらかれ，人びとに近代工業力の成果を誇示した。
+                    イギリスでは，二大政党が総選挙の結果にもとづいて交替して政権を担当する典型的な議会政党政治が成立し，保守党のディズレーリ，自由党のグラッドストンらによって，重要な改革がつぎつぎと実現された。
+                    １９世紀のなかばに，トーリ党は保守党，ホイッグ党は自由党とよばれるようになった。
+                    まず，１８６７年の第２回選挙法改正で都市労働者の多数が，８４年の第３回選挙法改正で農業労働者などが選挙権を獲得し，民主化がすすんだ。
+                    また，７０年の教育法で初等教育の公的整備がはじまり，７１年の労働組合法が組合の法的地位を認めた。
+                    他方，以前からイギリスの圧迫をうけ，１８０１年に正式に併合されて「連合王国」に組みこまれたアイルランドでは，住民の多くがカトリックで，イギリス人不在地主に対する小作人の地位におかれていたために生活が苦しかった。
+                    ４０年代なかばに大飢饉（ジャガイモ飢饉）を経験したアイルランドからは，その後わずか数年間で１００万人以上の人びとが移民としてアメリカにわたった。
+                    １８８０年代以降グラッドストンが提出したアイルランド自治法案は議会を通過せず，ケルト系民族の国アイルランドをめぐる問題は未解決のまま，２０世紀をむかえた。
+                ]]>
+            </text>
+        </doc>
+	</doc_set>
+</data>
